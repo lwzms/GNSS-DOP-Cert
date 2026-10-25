@@ -1,0 +1,68 @@
+[
+  {
+    "component": "CPython 3.13.5 Windows AMD64",
+    "category": "REQUIRED_RUNTIME",
+    "evidence": "sys.executable and current_runtime; standard library",
+    "scope": "EXTERNAL_USER_SUPPLIED; independent installer NOT_TESTED"
+  },
+  {
+    "component": "NumPy 2.1.3",
+    "category": "REQUIRED_RUNTIME",
+    "evidence": "replay_urbannav / dop_recorder / saved_qualification imports",
+    "scope": "EXTERNAL_USER_SUPPLIED; numerical build matters"
+  },
+  {
+    "component": "MKL + Intel OpenMP + TBB + MS runtime",
+    "category": "REQUIRED_RUNTIME",
+    "evidence": "current loaded binaries plus conda declared dependencies",
+    "scope": "MKL profile; TBB metadata dependency is not a claim it was loaded"
+  },
+  {
+    "component": "RTKLIB wrapper DLL AMD64 cdecl",
+    "category": "EXTERNAL_USER_SUPPLIED",
+    "evidence": "environment_contract required seven exports and fixed SHA256",
+    "scope": "REQUIRED_RUNTIME; transitive dependencies not exhaustive"
+  },
+  {
+    "component": "Windows KERNEL32 / WINMM / UCRT",
+    "category": "REQUIRED_RUNTIME",
+    "evidence": "DLL PE import record inherited and preflight loader",
+    "scope": "Microsoft system components; full transitive distribution NOT_CERTIFIED"
+  },
+  {
+    "component": "OBS / NAV",
+    "category": "EXTERNAL_USER_SUPPLIED",
+    "evidence": "fixed SHA256 and scientific window",
+    "scope": "REQUIRED_RUNTIME; excluded from candidate"
+  },
+  {
+    "component": "Fraction / decimal certificate module",
+    "category": "OPTIONAL_RESEARCH_VERIFICATION",
+    "evidence": "src/certify.py standard library only",
+    "scope": "included; no new DOP calculation in E18"
+  },
+  {
+    "component": "E11/E5/E4 or other bound history",
+    "category": "OPTIONAL_RESEARCH_VERIFICATION",
+    "evidence": "explicit historical mode only",
+    "scope": "NOT_REQUESTED in ordinary mode"
+  },
+  {
+    "component": "pytest",
+    "category": "DEVELOPMENT_ONLY",
+    "evidence": "vendor/tests imports; E18 tests use standard library",
+    "scope": "not needed for navigation or E18 tests"
+  },
+  {
+    "component": "SciPy",
+    "category": "UNVERIFIED",
+    "evidence": "no required import on included production path",
+    "scope": "not admitted as a runtime requirement"
+  },
+  {
+    "component": "CPython3.13.3 NumPy2.1.3 OpenBLAS environment",
+    "category": "UNVERIFIED",
+    "evidence": "E13 local metadata only",
+    "scope": "E17/E18 full runtime deployment NOT_TESTED; current profile rejects version mismatch"
+  }
+]

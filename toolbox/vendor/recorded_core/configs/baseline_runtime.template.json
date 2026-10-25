@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "experiment_id": "GNSS118_A_ENGINEERING_BASELINE_RC1",
+  "e0": {
+    "freeze_id": "GNSS118-CODE-ONLY-PROVENANCE-V1",
+    "directory": "FILL_LOCAL_E0_DIRECTORY",
+    "readme_sha256": "d3af9a33a4c9af930b7de178b3ad38601d2963221fba3fbaf390837778a3d2ea",
+    "file_manifest_sha256": "f153c7f1e87907aa512614da40e0258f97ce20f8c3da3deceda00b943c41d8fe"
+  },
+  "runtime": {
+    "mode": "NATIVE_OBS_WINDOW_V1",
+    "source_root": "GENERATED_PACKAGE_ROOT",
+    "python": "FILL_LOCAL_RESEARCH_PYTHON",
+    "output_root": "FILL_LOCAL_NEW_RUN_ROOT",
+    "timeout_seconds": 60,
+    "dependencies": [
+      "numpy"
+    ],
+    "protected_roots": [
+      "FILL_LOCAL_DATA_ROOT",
+      "FILL_LOCAL_SEALED_RESULTS_ROOT",
+      "FILL_LOCAL_E0_DIRECTORY"
+    ],
+    "entry": {
+      "script": "FILL_LOCAL_SCRIPT_PATH",
+      "sha256": "GENERATED_FROM_MANIFEST",
+      "module": "FILL_LOCAL_MODULE_PATH",
+      "module_sha256": "GENERATED_FROM_MANIFEST",
+      "directory": "runtime_inputs",
+      "arguments": [
+        "--inputs",
+        "{analysis_dir}",
+        "--out",
+        "{replay_dir}",
+        "--module",
+        "{qualification_module}",
+        "--config",
+        "{config_file}"
+      ]
+    },
+    "obs": {
+      "path": "FILL_LOCAL_OBS_PATH",
+      "sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f"
+    },
+    "nav": {
+      "path": "FILL_LOCAL_NAV_PATH",
+      "sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915"
+    },
+    "dll": {
+      "path": "FILL_LOCAL_DLL_PATH",
+      "sha256": "fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9"
+    },
+    "rules": {
+      "path": "FILL_LOCAL_RULES_PATH",
+      "sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f"
+    },
+    "scientific_configs": {
+      "A": {
+        "path": "FILL_LOCAL_SCIENTIFIC_CONFIG_A_PATH",
+        "sha256": "75b01676597cbc9f773b2a84bd97eca36901d861b10deed129838413e07b83b6"
+      },
+      "B": {
+        "path": "FILL_LOCAL_SCIENTIFIC_CONFIG_B_PATH",
+        "sha256": "69a4838be19d607b7ba712a3d98570a10224c1de18f3c0832986d3b8b66b4c30"
+      }
+    },
+    "window": {
+      "gps_week": 2158,
+      "start_tow": "96133.006",
+      "end_tow": "96152.006",
+      "step_ns": 1000000000
+    },
+    "signal_policy": "POSITIVE_FINITE_C1C_NO_SNR_V1",
+    "expected_nav_records": 404,
+    "code_snapshots": [],
+    "execution_working_directory": "GENERATED_PACKAGE_ROOT"
+  },
+  "comparison": {
+    "enabled": false
+  },
+  "code_identity": {
+    "mode": "SNAPSHOT",
+    "root": "GENERATED_PACKAGE_ROOT",
+    "manifest": "GENERATED_MANIFEST_PATH",
+    "manifest_sha256": "GENERATED_MANIFEST_SHA256",
+    "snapshot_id": "GENERATED_SNAPSHOT_ID"
+  }
+}

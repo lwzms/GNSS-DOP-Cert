@@ -1,0 +1,2 @@
+# Tested with Python 3.13.5, Windows 64-bit. No environment installed in E6.
+numpy==2.1.3

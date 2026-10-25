@@ -1,0 +1,290 @@
+{
+  "baseline_id": "GNSS118_A_ENGINEERING_BASELINE_RC1",
+  "classification": "engineering baseline release candidate; local/internal only",
+  "snapshot_id_location": "SOURCE_MANIFEST.json; excluded from this file to avoid recursive hashing",
+  "origin_scientific_commit": "60535f0f7592489e4b9592891e7a071d2f7f50e0",
+  "implementation_source_git": {
+    "head": "60535f0f7592489e4b9592891e7a071d2f7f50e0",
+    "branch": "engineering/e1-experiment-entry",
+    "git_status": "?? configs/experiments/return08_frozen_analysis.example.json\n?? configs/experiments/runtime/urbannav_final_residual_rules_v1.json\n?? configs/experiments/runtime/urbannav_spp_A.conf\n?? configs/experiments/runtime/urbannav_spp_B.conf\n?? configs/experiments/urbannav_native_obs_replay.example.json\n?? configs/experiments/urbannav_native_window.example.json\n?? configs/experiments/urbannav_qualification.example.json\n?? configs/experiments/urbannav_replay.example.json\n?? docs/engineering/GNSS_TOOLBOX_118_ENGINEERING_E1_IMPLEMENTATION.md\n?? docs/engineering/GNSS_TOOLBOX_118_ENGINEERING_E2_IMPLEMENTATION.md\n?? docs/engineering/GNSS_TOOLBOX_118_ENGINEERING_E3_IMPLEMENTATION.md\n?? docs/engineering/GNSS_TOOLBOX_118_ENGINEERING_E4_IMPLEMENTATION.md\n?? docs/engineering/GNSS_TOOLBOX_118_ENGINEERING_E5_IMPLEMENTATION.md\n?? src/gnss_toolbox/evaluation/saved_qualification.py\n?? tests/fixtures/e4_native/source.json\n?? tests/test_frozen_analysis_entry.py\n?? tests/test_native_urbannav_obs.py\n?? tests/test_saved_qualification.py\n?? tests/test_urbannav_replay.py\n?? tests/test_window_urbannav.py\n?? tools/experiments/README.md\n?? tools/experiments/native_urbannav_obs.py\n?? tools/experiments/qualify_urbannav_saved.py\n?? tools/experiments/replay_urbannav.py\n?? tools/experiments/run_frozen_analysis.py\n?? tools/experiments/window_urbannav.py\n"
+  },
+  "not_current_git_for_extracted_directory": true,
+  "E5_runtime_snapshot_match_before_E6": [
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\run_frozen_analysis.py",
+      "sha256": "8193ccc6e4c2af70677f854827357c4b3d9c1ca36709e1ab310d039ccea92c27",
+      "current_sha256": "8193ccc6e4c2af70677f854827357c4b3d9c1ca36709e1ab310d039ccea92c27",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\replay_urbannav.py",
+      "sha256": "e294927ac241b0cd3bd570594ead811ae29f399e7513883a8a07a455888c7849",
+      "current_sha256": "e294927ac241b0cd3bd570594ead811ae29f399e7513883a8a07a455888c7849",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\native_urbannav_obs.py",
+      "sha256": "54ce88fa1cf7a72dcfa2a4c7437e5d4236b38a5896bac5d214d8f3960fff883f",
+      "current_sha256": "54ce88fa1cf7a72dcfa2a4c7437e5d4236b38a5896bac5d214d8f3960fff883f",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\window_urbannav.py",
+      "sha256": "7483fde8db76ef9fba3f780e2fb1270600d97c346afa316eeeba5e7721d5719a",
+      "current_sha256": "7483fde8db76ef9fba3f780e2fb1270600d97c346afa316eeeba5e7721d5719a",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\evaluation\\saved_qualification.py",
+      "sha256": "bc11a5e318aa47b309e90b90aa7bfab7f326499144c18b050e499e6da4411534",
+      "current_sha256": "bc11a5e318aa47b309e90b90aa7bfab7f326499144c18b050e499e6da4411534",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\urbannav\\rinex.py",
+      "sha256": "1337fbf6faeb5cb898583441f3dd00cc43a3808133aa3b6468b9b6000d71db36",
+      "current_sha256": "1337fbf6faeb5cb898583441f3dd00cc43a3808133aa3b6468b9b6000d71db36",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\rinex.py",
+      "sha256": "0e9eac0a3ec0089662d0305074a8c0615f4a5587755056337853e4a040b3b0ff",
+      "current_sha256": "0e9eac0a3ec0089662d0305074a8c0615f4a5587755056337853e4a040b3b0ff",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\timing.py",
+      "sha256": "f7c5e120b060f7ce7f62d5117c92904f0c7fde40550c78538338478617a1f734",
+      "current_sha256": "f7c5e120b060f7ce7f62d5117c92904f0c7fde40550c78538338478617a1f734",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\schema.py",
+      "sha256": "298af06ebe10072d8d026f7f3aced81cef852c3287629577319e8e93884bb3db",
+      "current_sha256": "298af06ebe10072d8d026f7f3aced81cef852c3287629577319e8e93884bb3db",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\__init__.py",
+      "sha256": "7c94de50353b7bee8b4d93a70a189106c160000026994dbe8316aac3760da7cf",
+      "current_sha256": "7c94de50353b7bee8b4d93a70a189106c160000026994dbe8316aac3760da7cf",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\__init__.py",
+      "sha256": "305caee0a8ca07c17c2dcf776094fbd94ea351c62f58dab8a42e8d97d548a537",
+      "current_sha256": "305caee0a8ca07c17c2dcf776094fbd94ea351c62f58dab8a42e8d97d548a537",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\__init__.py",
+      "sha256": "f7ecbb346557cc05f0d2db8164ef6ca5d2d4e2f058386b566d904c635808e4f2",
+      "current_sha256": "f7ecbb346557cc05f0d2db8164ef6ca5d2d4e2f058386b566d904c635808e4f2",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\__init__.py",
+      "sha256": "48fafa96e171c0add2bee597b141e67742c73cf8597b82b0e96838e14ac10101",
+      "current_sha256": "48fafa96e171c0add2bee597b141e67742c73cf8597b82b0e96838e14ac10101",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\urbannav\\__init__.py",
+      "sha256": "1f3f4f9256a16c6c32d1ef823356cebe19b9bf160cb4e0ea8da4a665be5a46a0",
+      "current_sha256": "1f3f4f9256a16c6c32d1ef823356cebe19b9bf160cb4e0ea8da4a665be5a46a0",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_final_residual_rules_v1.json",
+      "sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f",
+      "current_sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_spp_A.conf",
+      "sha256": "75b01676597cbc9f773b2a84bd97eca36901d861b10deed129838413e07b83b6",
+      "current_sha256": "75b01676597cbc9f773b2a84bd97eca36901d861b10deed129838413e07b83b6",
+      "matches_E5": true
+    },
+    {
+      "source": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_spp_B.conf",
+      "sha256": "69a4838be19d607b7ba712a3d98570a10224c1de18f3c0832986d3b8b66b4c30",
+      "current_sha256": "69a4838be19d607b7ba712a3d98570a10224c1de18f3c0832986d3b8b66b4c30",
+      "matches_E5": true
+    }
+  ],
+  "engineering_stage_map": {
+    "E1": [
+      "tools/experiments/run_frozen_analysis.py"
+    ],
+    "E2": [
+      "tools/experiments/qualify_urbannav_saved.py",
+      "src/gnss_toolbox/evaluation/saved_qualification.py"
+    ],
+    "E3": [
+      "tools/experiments/replay_urbannav.py"
+    ],
+    "E4": [
+      "tools/experiments/native_urbannav_obs.py",
+      "src/gnss_toolbox/data/staging/urbannav/rinex.py"
+    ],
+    "E5": [
+      "tools/experiments/window_urbannav.py",
+      "configs/experiments/runtime/"
+    ],
+    "E6": [
+      "snapshot identity branch in existing runner",
+      "first-party module-path evidence",
+      "full-window post-run comparison metadata policy",
+      "tools/experiments/prepare_baseline_config.py",
+      "tests/test_engineering_baseline.py"
+    ]
+  },
+  "excluded": [
+    ".git",
+    "raw OBS/NAV",
+    "Windows DLL and third-party source trees",
+    "real-measurement test excerpts",
+    "Python environment",
+    "historical results/run directories and archival test inputs",
+    "research papers and other collaborator route"
+  ],
+  "current_source_manifest": "SOURCE_MANIFEST.json",
+  "scientific_rule_identity": {
+    "path": "configs/experiments/runtime/urbannav_final_residual_rules_v1.json",
+    "sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f"
+  },
+  "external_inventory": "EXTERNAL_DEPENDENCIES.json",
+  "first_party_origin_map": {
+    "tools/experiments/run_frozen_analysis.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\run_frozen_analysis.py",
+      "source_sha256": "be5255976a3ac73675f27824a55fbbb7e19c4b6c178fc03b9e788d3898b21d90",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tools/experiments/qualify_urbannav_saved.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\qualify_urbannav_saved.py",
+      "source_sha256": "efeb7078d20a3d41f311b73dde074f725f7232169f5438d676bb81e0f7162fb5",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tools/experiments/replay_urbannav.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\replay_urbannav.py",
+      "source_sha256": "e294927ac241b0cd3bd570594ead811ae29f399e7513883a8a07a455888c7849",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tools/experiments/native_urbannav_obs.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\native_urbannav_obs.py",
+      "source_sha256": "5acdf8d468ddc716ab6239f2dcf1ce33e7c9ff3cfbfdc37f97ff3c9afca068cc",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tools/experiments/window_urbannav.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\window_urbannav.py",
+      "source_sha256": "1ef2b178d07c236ce9dad6313ef6ab5cd467e18d3af98dc3cebb2dca36a9272f",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tools/experiments/prepare_baseline_config.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tools\\experiments\\prepare_baseline_config.py",
+      "source_sha256": "44dd819762152a7e711a50fcc888f307a51baf8cd7593b9bf3c2df946eac5447",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\__init__.py",
+      "source_sha256": "7c94de50353b7bee8b4d93a70a189106c160000026994dbe8316aac3760da7cf",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\__init__.py",
+      "source_sha256": "305caee0a8ca07c17c2dcf776094fbd94ea351c62f58dab8a42e8d97d548a537",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/audit/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\__init__.py",
+      "source_sha256": "f7ecbb346557cc05f0d2db8164ef6ca5d2d4e2f058386b566d904c635808e4f2",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/audit/rinex.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\rinex.py",
+      "source_sha256": "0e9eac0a3ec0089662d0305074a8c0615f4a5587755056337853e4a040b3b0ff",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/audit/timing.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\audit\\timing.py",
+      "source_sha256": "f7c5e120b060f7ce7f62d5117c92904f0c7fde40550c78538338478617a1f734",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/schema.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\schema.py",
+      "source_sha256": "298af06ebe10072d8d026f7f3aced81cef852c3287629577319e8e93884bb3db",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/staging/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\__init__.py",
+      "source_sha256": "48fafa96e171c0add2bee597b141e67742c73cf8597b82b0e96838e14ac10101",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/staging/urbannav/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\urbannav\\__init__.py",
+      "source_sha256": "1f3f4f9256a16c6c32d1ef823356cebe19b9bf160cb4e0ea8da4a665be5a46a0",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/data/staging/urbannav/rinex.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\data\\staging\\urbannav\\rinex.py",
+      "source_sha256": "1337fbf6faeb5cb898583441f3dd00cc43a3808133aa3b6468b9b6000d71db36",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/evaluation/__init__.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\evaluation\\__init__.py",
+      "source_sha256": "6c6c651f70508412808445f516fd25ce4792d005301929dc6f63e05bb1a51c55",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "src/gnss_toolbox/evaluation/saved_qualification.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\src\\gnss_toolbox\\evaluation\\saved_qualification.py",
+      "source_sha256": "bc11a5e318aa47b309e90b90aa7bfab7f326499144c18b050e499e6da4411534",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "configs/experiments/runtime/urbannav_final_residual_rules_v1.json": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_final_residual_rules_v1.json",
+      "source_sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "configs/experiments/runtime/urbannav_spp_A.conf": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_spp_A.conf",
+      "source_sha256": "75b01676597cbc9f773b2a84bd97eca36901d861b10deed129838413e07b83b6",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "configs/experiments/runtime/urbannav_spp_B.conf": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\runtime\\urbannav_spp_B.conf",
+      "source_sha256": "69a4838be19d607b7ba712a3d98570a10224c1de18f3c0832986d3b8b66b4c30",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tests/test_frozen_analysis_entry.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tests\\test_frozen_analysis_entry.py",
+      "source_sha256": "394315967a51ab01d970f1364aebe4f659fa946857f34098557f3a0d9f9d1525",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "tests/test_engineering_baseline.py": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\tests\\test_engineering_baseline.py",
+      "source_sha256": "c811d70262b4c3def365a2fb99ffe87fcb532d457f41760629781a94bd31c87a",
+      "role": "first_party_source_or_scientific_config"
+    },
+    "configs/baseline_runtime.template.json": {
+      "source_path": "E:\\GNSS-Geo\\.local\\worktrees\\GNSS-Geo-engineering-e1\\configs\\experiments\\baseline_runtime.template.json",
+      "source_sha256": "9863470680bae4ca2ff11e97a771da6fe7cbf24bca36cfd72587655ff7568c3d",
+      "role": "configuration_template_or_single_user_readme"
+    },
+    "README.md": {
+      "source_path": "E:\\GNSS-Geo\\.local\\e6-records\\package_README.md",
+      "source_sha256": "e7ad95eedeef6421b0ce6d333281274eebee9699539f6ac2e1bed4c11f537b70",
+      "role": "configuration_template_or_single_user_readme"
+    },
+    "provenance/e0/FREEZE_README_E0.md": {
+      "source_path": "E:\\GNSS-Geo\\GNSS_TOOLBOX_118_ENGINEERING_FREEZE_E0\\FREEZE_README_E0.md",
+      "source_sha256": "6418bd0b217750becddfe19fbc0d225e5c9b031c446f97904fc49d0ce525d625",
+      "role": "verbatim_E0_identity_anchor_not_history_dependency"
+    },
+    "provenance/e0/FILE_MANIFEST_E0.csv": {
+      "source_path": "E:\\GNSS-Geo\\GNSS_TOOLBOX_118_ENGINEERING_FREEZE_E0\\FILE_MANIFEST_E0.csv",
+      "source_sha256": "716d1713fa838eac510d70f8772ff088b1164476962c09cef538d0d8b097b7d0",
+      "role": "verbatim_E0_identity_anchor_not_history_dependency"
+    }
+  }
+}

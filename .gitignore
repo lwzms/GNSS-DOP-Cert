@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.pdf
+*.tex
+*.docx
+*.dll
+*.exe
+*.obs
+*.rnx
+*.nav
+runs/
+outputs/

@@ -1,0 +1,100 @@
+{
+  "version": "E18_ENVIRONMENT_CONTRACT_V1",
+  "tested_profile": {
+    "implementation": "CPython",
+    "python": "3.13.5",
+    "bits": 64,
+    "system": "Windows",
+    "numpy": "2.1.3"
+  },
+  "python_identity_example": {
+    "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/python.exe",
+    "sha256": "cec2fab4b3258900cc330346de8c664e57fa04227406920a6edb06f0efeeebb1",
+    "environment": {
+      "implementation": "CPython",
+      "python": "3.13.5",
+      "bits": 64,
+      "system": "Windows",
+      "numpy": "2.1.3"
+    }
+  },
+  "third_party_required": {
+    "numpy": "2.1.3"
+  },
+  "optional_certificate_dependencies": "Python standard library only",
+  "test_dependencies": "stdlib unittest; NumPy for recorder tests",
+  "platform": "Windows AMD64",
+  "abi": "CDLL/cdecl; C int and int32 arrays; float64 C-contiguous arrays; pointer 64 bit; required exports resolved without invocation",
+  "dll": {
+    "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rtklib_window_gate.dll",
+    "sha256": "fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9",
+    "bytes": 576000,
+    "machine_hex": "0x8664",
+    "machine": "AMD64",
+    "optional_header": "PE32+",
+    "direct_imports": [
+      "WINMM.dll",
+      "api-ms-win-crt-convert-l1-1-0.dll",
+      "api-ms-win-crt-filesystem-l1-1-0.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-private-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "api-ms-win-crt-time-l1-1-0.dll",
+      "api-ms-win-crt-utility-l1-1-0.dll",
+      "KERNEL32.dll",
+      "api-ms-win-crt-locale-l1-1-0.dll",
+      "api-ms-win-crt-environment-l1-1-0.dll"
+    ],
+    "transitive_system_imports": "NOT_EXHAUSTIVELY_ENUMERATED",
+    "delay_import_directory_rva": 0
+  },
+  "source": {
+    "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/dependency_contract.json",
+    "sha256": "96084bdc68c40c7f8c8f0ff54904533f39c7b9801fe763aa34057df4431e7168",
+    "bytes": 8328
+  },
+  "clean_install": "UNTESTED",
+  "other_versions": "UNTESTED",
+  "public_release": "NOT_READY",
+  "licences": {
+    "obs": {
+      "logical_name": "obs",
+      "filename": "UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "size_bytes": 3156481,
+      "sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f",
+      "local_example_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "included_in_package": false,
+      "source": "IPNL-POLYU UrbanNav-HK-Medium-Urban-1 rear F9P splitter; prior dataset inventory and E0 data manifest",
+      "usage": "original GPS C1C measurements for native parsing",
+      "licence_status": "UNKNOWN_REDISTRIBUTION_NOT_AUTHORIZED_BY_THIS_PACKAGE"
+    },
+    "nav": {
+      "logical_name": "nav",
+      "filename": "BRDM00DLR_S_20211370000_01D_MN.rnx",
+      "size_bytes": 7357518,
+      "sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915",
+      "local_example_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/BRDM00DLR_S_20211370000_01D_MN.rnx",
+      "included_in_package": false,
+      "source": "BKG/IGS/DLR 2021 DOY137 broadcast product, prior P95 freeze and E0 provenance",
+      "usage": "2021-05-17 broadcast orbits and clocks",
+      "licence_status": "NOT_REAUDITED_IN_E6; external only; retain provider attribution"
+    },
+    "dll": {
+      "logical_name": "dll",
+      "filename": "rtklib_window_gate.dll",
+      "size_bytes": 576000,
+      "sha256": "fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9",
+      "local_example_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rtklib_window_gate.dll",
+      "included_in_package": false,
+      "source": "existing project RTKLIB wrapper binary, RTKLIB commit 71db0ffa0d9735697c6adfd06fdf766d0e5ce807; prior RETURN08 build provenance",
+      "usage": "existing satellite propagation and standard SPP/FDE ABI",
+      "licence_status": "RTKLIB local readme contains BSD 2-clause and additional conditions; custom wrapper/linked components not blanket certified; external binary only"
+    }
+  },
+  "wrapper_validation": "E18 non-navigation only; E17 navigation evidence inherited, not rerun",
+  "independent_deployment": "NOT_TESTED",
+  "path_policy": "LOCAL_WINDOWS_DRIVE_ABSOLUTE_OR_CONFIG_ROOT_RELATIVE_V1"
+}

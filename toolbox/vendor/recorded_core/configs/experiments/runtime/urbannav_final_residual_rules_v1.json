@@ -1,0 +1,36 @@
+{
+  "protocol_id": "URBANNAV_GPS_C1C_EVAL_V1",
+  "evidence_logic": [
+    "TRUE",
+    "FALSE",
+    "UNKNOWN"
+  ],
+  "navigation": "selected USED code rows must have stored broadcast orbit/clock states and metadata, healthy status, IOD consistency, day/week, <=7201 s Toe age and the recorded positive fit interval; no online availability claim",
+  "model_profile": {
+    "id": "FINAL_RESIDUAL_DOMAIN_V1",
+    "scope": "declared final code residual and numeric model domain only; not complete calibration, iteration-path, statistical-error or physical-truth certification",
+    "height_m": [
+      -100,
+      10000
+    ],
+    "minimum_used_satellites": 4,
+    "physical_rank": 4,
+    "maximum_GDOP": 30,
+    "minimum_elevation_deg": 10,
+    "finite_terms_and_positive_variance": true,
+    "FDE_minimum_used_satellites": 5,
+    "bias_policy": "same saved RTKLIB TGD/DCB policy; no new correction",
+    "full_iteration_path": "UNKNOWN"
+  },
+  "rules_id": "URBANNAV_FINAL_RESIDUAL_RUNTIME_V1",
+  "inherited_protocol_sha256": "e203f32fc0b70a126bc739dd005fe1848418ca62444d9a342116a783651e739e",
+  "inherited_protocol_id": "URBANNAV_GPS_C1C_EVAL_V1",
+  "source_numeric_rules": {
+    "toe_max_age_seconds": 7201,
+    "elevation_roundoff_rad": 1e-12,
+    "rank_tolerance": "NumPy matrix_rank default: s_max * max(M,N) * eps(float64)"
+  },
+  "qualification_implementation": "URBANNAV_SAVED_QUALIFICATION_V1",
+  "reference": {},
+  "source_binding": "runtime OBS/NAV hashes and newly generated result pointers; no preserved history entries"
+}

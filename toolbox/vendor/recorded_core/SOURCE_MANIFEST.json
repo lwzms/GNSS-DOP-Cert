@@ -1,0 +1,176 @@
+{
+  "baseline_id": "GNSS118_INTERNAL_TOOLBOX_CANDIDATE_V1",
+  "snapshot_id": "GNSS118-E17-CORE-2105ede1878d38f75c7b5947557d276fa5765d729e644144410b03bdf5c05eb5",
+  "origin_scientific_commit": "60535f0f7592489e4b9592891e7a071d2f7f50e0",
+  "manifest_policy": "all delivered files except SOURCE_MANIFEST.json itself; local configs generated after extraction are separate",
+  "files": [
+    {
+      "path": "configs/baseline_runtime.template.json",
+      "size_bytes": 2806,
+      "sha256": "893ae24d13a3f7ed69c1020207a4d4d927916de752c96ef66a5909690bb073ea"
+    },
+    {
+      "path": "configs/experiments/runtime/urbannav_final_residual_rules_v1.json",
+      "size_bytes": 1567,
+      "sha256": "bd48cdefe507d463906148870c8e14836154775d41e9d7109af19518b170c11f"
+    },
+    {
+      "path": "configs/experiments/runtime/urbannav_spp_A.conf",
+      "size_bytes": 4338,
+      "sha256": "75b01676597cbc9f773b2a84bd97eca36901d861b10deed129838413e07b83b6"
+    },
+    {
+      "path": "configs/experiments/runtime/urbannav_spp_B.conf",
+      "size_bytes": 4337,
+      "sha256": "69a4838be19d607b7ba712a3d98570a10224c1de18f3c0832986d3b8b66b4c30"
+    },
+    {
+      "path": "EXTERNAL_DEPENDENCIES.json",
+      "size_bytes": 2380,
+      "sha256": "fc502edb598ee3eaecddea989c2ab0f68ece49733b9c679abfd7b4b4e9e01c56"
+    },
+    {
+      "path": "provenance/e0/FILE_MANIFEST_E0.csv",
+      "size_bytes": 2606,
+      "sha256": "f153c7f1e87907aa512614da40e0258f97ce20f8c3da3deceda00b943c41d8fe"
+    },
+    {
+      "path": "provenance/e0/FREEZE_README_E0.md",
+      "size_bytes": 582,
+      "sha256": "d3af9a33a4c9af930b7de178b3ad38601d2963221fba3fbaf390837778a3d2ea"
+    },
+    {
+      "path": "provenance/THIRD_PARTY_NOTICES.txt",
+      "size_bytes": 2423,
+      "sha256": "a1b9e1d5faaad24e3115600a0640f8835eb5508902d6baae0b0d6373abbca2d4"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 6122,
+      "sha256": "e7ad95eedeef6421b0ce6d333281274eebee9699539f6ac2e1bed4c11f537b70"
+    },
+    {
+      "path": "requirements-runtime.txt",
+      "size_bytes": 92,
+      "sha256": "e71bffcada179754946d9c2e4298f5c8248c2e7156c4e296759040c1adcd93e4"
+    },
+    {
+      "path": "requirements-test.txt",
+      "size_bytes": 44,
+      "sha256": "48741ba845c19205f1949116ba6b089c4c8ab92cdcb0508c3c9f110b705547d2"
+    },
+    {
+      "path": "src/gnss_toolbox/__init__.py",
+      "size_bytes": 87,
+      "sha256": "7c94de50353b7bee8b4d93a70a189106c160000026994dbe8316aac3760da7cf"
+    },
+    {
+      "path": "src/gnss_toolbox/data/__init__.py",
+      "size_bytes": 77,
+      "sha256": "305caee0a8ca07c17c2dcf776094fbd94ea351c62f58dab8a42e8d97d548a537"
+    },
+    {
+      "path": "src/gnss_toolbox/data/audit/__init__.py",
+      "size_bytes": 85,
+      "sha256": "f7ecbb346557cc05f0d2db8164ef6ca5d2d4e2f058386b566d904c635808e4f2"
+    },
+    {
+      "path": "src/gnss_toolbox/data/audit/rinex.py",
+      "size_bytes": 7602,
+      "sha256": "0e9eac0a3ec0089662d0305074a8c0615f4a5587755056337853e4a040b3b0ff"
+    },
+    {
+      "path": "src/gnss_toolbox/data/audit/timing.py",
+      "size_bytes": 4242,
+      "sha256": "f7c5e120b060f7ce7f62d5117c92904f0c7fde40550c78538338478617a1f734"
+    },
+    {
+      "path": "src/gnss_toolbox/data/schema.py",
+      "size_bytes": 10356,
+      "sha256": "298af06ebe10072d8d026f7f3aced81cef852c3287629577319e8e93884bb3db"
+    },
+    {
+      "path": "src/gnss_toolbox/data/staging/__init__.py",
+      "size_bytes": 81,
+      "sha256": "48fafa96e171c0add2bee597b141e67742c73cf8597b82b0e96838e14ac10101"
+    },
+    {
+      "path": "src/gnss_toolbox/data/staging/urbannav/__init__.py",
+      "size_bytes": 55,
+      "sha256": "1f3f4f9256a16c6c32d1ef823356cebe19b9bf160cb4e0ea8da4a665be5a46a0"
+    },
+    {
+      "path": "src/gnss_toolbox/data/staging/urbannav/rinex.py",
+      "size_bytes": 6155,
+      "sha256": "1337fbf6faeb5cb898583441f3dd00cc43a3808133aa3b6468b9b6000d71db36"
+    },
+    {
+      "path": "src/gnss_toolbox/evaluation/__init__.py",
+      "size_bytes": 84,
+      "sha256": "6c6c651f70508412808445f516fd25ce4792d005301929dc6f63e05bb1a51c55"
+    },
+    {
+      "path": "src/gnss_toolbox/evaluation/saved_qualification.py",
+      "size_bytes": 12041,
+      "sha256": "bc11a5e318aa47b309e90b90aa7bfab7f326499144c18b050e499e6da4411534"
+    },
+    {
+      "path": "tests/test_engineering_baseline.py",
+      "size_bytes": 10038,
+      "sha256": "c811d70262b4c3def365a2fb99ffe87fcb532d457f41760629781a94bd31c87a"
+    },
+    {
+      "path": "tests/test_frozen_analysis_entry.py",
+      "size_bytes": 8825,
+      "sha256": "394315967a51ab01d970f1364aebe4f659fa946857f34098557f3a0d9f9d1525"
+    },
+    {
+      "path": "tools/experiments/dop_recorder.py",
+      "size_bytes": 6843,
+      "sha256": "58202a474ccd6e8139174563d73aa1a789d9d7e223d785ce245a5c29f29f32b9"
+    },
+    {
+      "path": "tools/experiments/native_urbannav_obs.py",
+      "size_bytes": 9021,
+      "sha256": "5acdf8d468ddc716ab6239f2dcf1ce33e7c9ff3cfbfdc37f97ff3c9afca068cc"
+    },
+    {
+      "path": "tools/experiments/prepare_baseline_config.py",
+      "size_bytes": 4218,
+      "sha256": "44dd819762152a7e711a50fcc888f307a51baf8cd7593b9bf3c2df946eac5447"
+    },
+    {
+      "path": "tools/experiments/qualify_urbannav_saved.py",
+      "size_bytes": 16588,
+      "sha256": "efeb7078d20a3d41f311b73dde074f725f7232169f5438d676bb81e0f7162fb5"
+    },
+    {
+      "path": "tools/experiments/replay_urbannav.py",
+      "size_bytes": 29386,
+      "sha256": "432cd0b46c9008557aa79f0462c2b79383c05638bb38d3412ad12a412c1c9d0b"
+    },
+    {
+      "path": "tools/experiments/run_frozen_analysis.py",
+      "size_bytes": 29977,
+      "sha256": "fad2fb018e97e9a883900d698b7e61ad25872556fadfef591284d7b830bed0b6"
+    },
+    {
+      "path": "tools/experiments/window_urbannav.py",
+      "size_bytes": 19424,
+      "sha256": "3812a22923f89f53b61874cab625568a2eda5f3c48c28605591de0ad950f1e6c"
+    },
+    {
+      "path": "VERSION.json",
+      "size_bytes": 17866,
+      "sha256": "71bca7af79c9f1941a775e2a8b281ca98df9be9739f164ae89228c6c276307bc"
+    }
+  ],
+  "derivation": "RC1 unchanged except Python DOP capture and recorder module; prefix retained for existing snapshot-validator schema only",
+  "derived_from": {
+    "path": "E:\\GNSS-Geo\\.local\\engineering\\e16_production_dop_recorder_20261025\\vendor\\recorded_rc1\\SOURCE_MANIFEST.json",
+    "sha256": "62fc6c2d4d24a9fd065151cdd8fa0db8de096d1a9a6e15d741a291e721db4f56",
+    "bytes": 6328
+  },
+  "repository_export_id": "CODE_ONLY_V1",
+  "historical_manifest_sha256": "4c632e160c6b82a523be4dde3710364e5be8aa854d0fe6c55f038cb9881b7c59"
+}

@@ -1,0 +1,2 @@
+# Tested version only; does not select a BLAS build or authorize installation.
+numpy==2.1.3

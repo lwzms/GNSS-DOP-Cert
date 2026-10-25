@@ -1,0 +1,19 @@
+{
+  "methods": [
+    "SPP",
+    "SPP_FDE"
+  ],
+  "signal": "GPS C1C",
+  "time_system": "GPST",
+  "window": {
+    "gps_week": 2158,
+    "start_tow": "96133.006",
+    "end_tow": "96152.006",
+    "step_ns": 1000000000
+  },
+  "signal_policy": "POSITIVE_FINITE_C1C_NO_SNR_V1",
+  "expected_nav_records": 404,
+  "qualification": "URBANNAV_FINAL_RESIDUAL_RUNTIME_V1",
+  "solver": "RC1_ORIGINAL_A_B_CONFIGS",
+  "reference_contract": "ABSENT_UNKNOWN"
+}

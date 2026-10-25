@@ -1,0 +1,262 @@
+[
+  {
+    "component_name": "第一方公共包装",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/toolbox.py",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/toolbox.py",
+      "sha256": "d0c0999fc5c3fbfdbfd78a11cbcabb56dbcbd37cb6a661e68d3ae81add26c01f",
+      "bytes": 18546
+    },
+    "upstream_project": "GNSS-ToolBox-118",
+    "copyright_or_owner": "UNKNOWN: no ownership instrument supplied",
+    "license_text_available": false,
+    "license_type": "NO_PROJECT_WIDE_LICENSE_FOUND",
+    "distribution_obligations": "实际交付前确认接收者授权；保留来源和版本",
+    "modified_or_unmodified": "E18 wrapper modified",
+    "binary_or_source": "source",
+    "internal_use_status": "限定项目负责人实际授权的内部使用；本轮未认定权利归属或发生转交",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/toolbox.py",
+    "remaining_unknown": "第一方权利归属、员工/机构及再许可范围"
+  },
+  {
+    "component_name": "解析与审计代码",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rinex.py",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rinex.py",
+      "sha256": "0e9eac0a3ec0089662d0305074a8c0615f4a5587755056337853e4a040b3b0ff",
+      "bytes": 7602
+    },
+    "upstream_project": "GNSS-ToolBox-118",
+    "copyright_or_owner": "UNKNOWN",
+    "license_text_available": false,
+    "license_type": "NO_PROJECT_WIDE_LICENSE_FOUND",
+    "distribution_obligations": "保留历史来源；内部范围同上",
+    "modified_or_unmodified": "unmodified",
+    "binary_or_source": "source",
+    "internal_use_status": "限定项目负责人实际授权的内部使用；本轮未认定权利归属或发生转交",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rinex.py",
+    "remaining_unknown": "公开授权及第三方片段完整归属"
+  },
+  {
+    "component_name": "E16派生DOP记录器",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/dop_recorder.py",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/dop_recorder.py",
+      "sha256": "58202a474ccd6e8139174563d73aa1a789d9d7e223d785ce245a5c29f29f32b9",
+      "bytes": 6843
+    },
+    "upstream_project": "GNSS-ToolBox-118",
+    "copyright_or_owner": "UNKNOWN",
+    "license_text_available": false,
+    "license_type": "NO_PROJECT_WIDE_LICENSE_FOUND",
+    "distribution_obligations": "保留来源和限制",
+    "modified_or_unmodified": "unmodified",
+    "binary_or_source": "source",
+    "internal_use_status": "限定项目负责人实际授权的内部使用；本轮未认定权利归属或发生转交",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/dop_recorder.py",
+    "remaining_unknown": "独立版权及分发授权"
+  },
+  {
+    "component_name": "RTKLIB基础来源",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/readme.txt",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/readme.txt",
+      "sha256": "62ffdeb478c9ab053fe83e8495f5d88f161002661340659c10e9ba106cf1648d",
+      "bytes": 9647
+    },
+    "upstream_project": "RTKLIB",
+    "copyright_or_owner": "T. Takasu notice 2007-2013",
+    "license_text_available": true,
+    "license_type": "BSD 2-clause and local additional conditions",
+    "distribution_obligations": "源码保留通知/条件/免责声明；二进制附带通知；附属库各自许可",
+    "modified_or_unmodified": "local source read only",
+    "binary_or_source": "source notice",
+    "internal_use_status": "依其原许可条件",
+    "redistribution_status": "TEXT_AVAILABLE_COMPONENT_SCOPE_ONLY",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/readme.txt",
+    "remaining_unknown": "不能覆盖所有包装或链接组件"
+  },
+  {
+    "component_name": "自定义RTKLIB包装DLL",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rtklib_window_gate.dll",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rtklib_window_gate.dll",
+      "sha256": "fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9",
+      "bytes": 576000
+    },
+    "upstream_project": "RTKLIB RETURN08 wrapper",
+    "copyright_or_owner": "UNKNOWN for complete wrapper/build",
+    "license_text_available": false,
+    "license_type": "UNKNOWN_COMPLETE_BINARY",
+    "distribution_obligations": "必须核对包装源码、构建与全部链接成分许可",
+    "modified_or_unmodified": "custom binary",
+    "binary_or_source": "binary",
+    "internal_use_status": "仅用户合法提供并授权使用",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/rtklib_window_gate.dll",
+    "remaining_unknown": "完整构建对应、包装授权、传递依赖"
+  },
+  {
+    "component_name": "NumPy",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+      "sha256": "01fb016849aa427edb1bbbbd55f91c26ca6cadb32a5b20e7f000655dd05b0760",
+      "bytes": 1543
+    },
+    "upstream_project": "NumPy",
+    "copyright_or_owner": "NumPy Developers",
+    "license_text_available": true,
+    "license_type": "BSD-3-Clause plus bundled notices",
+    "distribution_obligations": "保留版权、条件、免责声明及随附组件通知",
+    "modified_or_unmodified": "installed distribution",
+    "binary_or_source": "binary+source notices",
+    "internal_use_status": "依现存合法环境与条款",
+    "redistribution_status": "COMPONENT_TEXT_AVAILABLE_NOT_BUNDLE_CLEARANCE",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+    "remaining_unknown": "Anaconda交付渠道与整包分发条件"
+  },
+  {
+    "component_name": "MKL/Intel OpenMP",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/mkl-2023.1.0-h6b88ed4_46358.json",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/mkl-2023.1.0-h6b88ed4_46358.json",
+      "sha256": "4a915239ce730300835413fe4518c7ff4c53b886c585e9ddfdaea812b1637a53",
+      "bytes": 2371
+    },
+    "upstream_project": "Intel / Anaconda",
+    "copyright_or_owner": "Intel metadata; complete rights UNKNOWN",
+    "license_text_available": false,
+    "license_type": "LicenseRef-ProprietaryIntel metadata only",
+    "distribution_obligations": "需取得对应发行物完整条款及可分发文件表",
+    "modified_or_unmodified": "installed distribution",
+    "binary_or_source": "binary metadata",
+    "internal_use_status": "已有本机环境使用不代表授予再分发",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/mkl-2023.1.0-h6b88ed4_46358.json",
+    "remaining_unknown": "metadata引用缓存目录在本轮未找到完整许可文本"
+  },
+  {
+    "component_name": "OpenBLAS及wheel附带库",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+      "sha256": "14256cc3a2c9d32ac284da96b937feb44f72dd90bee2317ac3020166846ad99d",
+      "bytes": 47709
+    },
+    "upstream_project": "OpenBLAS / NumPy wheel",
+    "copyright_or_owner": "The OpenBLAS Project and individual bundled authors",
+    "license_text_available": true,
+    "license_type": "BSD-3-Clause; LAPACK notices; GCC exception text in wheel",
+    "distribution_obligations": "逐个保留wheel内通知和相关条件",
+    "modified_or_unmodified": "E13 installed wheel",
+    "binary_or_source": "binary notices",
+    "internal_use_status": "E13环境证据沿用",
+    "redistribution_status": "COMPONENT_TEXT_AVAILABLE_NOT_BUNDLE_CLEARANCE",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE.txt",
+    "remaining_unknown": "E18未在该Python版本进行部署；不得把单项许可替代整包审查"
+  },
+  {
+    "component_name": "Python解释器",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE_PYTHON.txt",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE_PYTHON.txt",
+      "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb",
+      "bytes": 13809
+    },
+    "upstream_project": "CPython / Anaconda",
+    "copyright_or_owner": "Python Software Foundation and upstream notices",
+    "license_text_available": true,
+    "license_type": "PSF-2.0 and historical notices",
+    "distribution_obligations": "保留完整条款；Anaconda发行渠道条件另查",
+    "modified_or_unmodified": "installed distribution",
+    "binary_or_source": "binary notices",
+    "internal_use_status": "当前环境使用",
+    "redistribution_status": "COMPONENT_TEXT_AVAILABLE_NOT_BUNDLE_CLEARANCE",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/LICENSE_PYTHON.txt",
+    "remaining_unknown": "独立安装来源与解释器整包依赖未交付"
+  },
+  {
+    "component_name": "Windows/UCRT运行时",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/kernel32.dll",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/kernel32.dll",
+      "sha256": "e132eba4166256e2f414b91fe7d5386590bc5ea8626aee5af9c9738383cf2ae1",
+      "bytes": 861992
+    },
+    "upstream_project": "Microsoft",
+    "copyright_or_owner": "Microsoft; exact distribution rights UNKNOWN",
+    "license_text_available": false,
+    "license_type": "SYSTEM_TERMS_NOT_AUDITED",
+    "distribution_obligations": "由合法Windows/运行时安装提供，不复制系统DLL",
+    "modified_or_unmodified": "system binary",
+    "binary_or_source": "binary",
+    "internal_use_status": "用户合法Windows环境",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/kernel32.dll",
+    "remaining_unknown": "完整运行时再分发条款与传递依赖"
+  },
+  {
+    "component_name": "UrbanNav OBS",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f",
+      "bytes": 3156481
+    },
+    "upstream_project": "IPNL-POLYU UrbanNav",
+    "copyright_or_owner": "UNKNOWN for redistribution",
+    "license_text_available": false,
+    "license_type": "NO_SUFFICIENT_LOCAL_REDISTRIBUTION_PERMISSION",
+    "distribution_obligations": "使用者自行合法取得，保留来源，不纳入源码目录",
+    "modified_or_unmodified": "unmodified",
+    "binary_or_source": "data",
+    "internal_use_status": "用户合法现存资料",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+    "remaining_unknown": "公开下载事实不能代替再分发许可"
+  },
+  {
+    "component_name": "BKG/IGS/DLR NAV",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/BRDM00DLR_S_20211370000_01D_MN.rnx",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/BRDM00DLR_S_20211370000_01D_MN.rnx",
+      "sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915",
+      "bytes": 7357518
+    },
+    "upstream_project": "BKG / IGS / DLR",
+    "copyright_or_owner": "UNKNOWN for redistribution",
+    "license_text_available": false,
+    "license_type": "NO_SUFFICIENT_LOCAL_REDISTRIBUTION_PERMISSION",
+    "distribution_obligations": "使用者自行合法取得，保留来源，不纳入源码目录",
+    "modified_or_unmodified": "unmodified",
+    "binary_or_source": "data",
+    "internal_use_status": "用户合法现存资料",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/BRDM00DLR_S_20211370000_01D_MN.rnx",
+    "remaining_unknown": "公开下载事实不能代替再分发许可"
+  },
+  {
+    "component_name": "配置/示例/历史来源素材",
+    "source_path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/science_contract.json",
+    "source_identity": {
+      "path": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/science_contract.json",
+      "sha256": "010fd0ead4e46eae93a1d533f828136f999abf20e98a3b453bdf229b38372e87",
+      "bytes": 460
+    },
+    "upstream_project": "GNSS-ToolBox-118",
+    "copyright_or_owner": "UNKNOWN",
+    "license_text_available": false,
+    "license_type": "INTERNAL_SOURCE_SCOPE_ONLY",
+    "distribution_obligations": "只交付固定配置、来源清单和模板；不交付真实run/观测片段",
+    "modified_or_unmodified": "template/docs modified",
+    "binary_or_source": "source+metadata",
+    "internal_use_status": "限定项目负责人实际授权的内部使用；本轮未认定权利归属或发生转交",
+    "redistribution_status": "UNKNOWN; exclude public redistribution",
+    "evidence_source": "USER_SUPPLIED_OR_LOCAL_PROVENANCE/science_contract.json",
+    "remaining_unknown": "第一方授权同上；保留的本机路径只作历史来源"
+  }
+]
