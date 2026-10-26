@@ -1,0 +1,30 @@
+# Observed installed package closure; see package_sources.json and docs/SETUP_WINDOWS.md.
+# platform: win-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda#29c8be9152b7cbf29578794154d2408f
+https://repo.anaconda.com/pkgs/main/win-64/bzip2-1.0.8-h2bbff1b_6.conda#33e784123d565c38e68945f07b461282
+https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2025.2.25-haa95532_0.conda#808dfb694164c6394052c42c02f04514
+https://repo.anaconda.com/pkgs/main/win-64/expat-2.7.1-h8ddb27b_0.conda#011c43ed4c203fe09147107af9fd1b5a
+https://repo.anaconda.com/pkgs/main/win-64/intel-openmp-2023.1.0-h59b6b97_46320.conda#24ec0112499542d8170daa38552134d9
+https://repo.anaconda.com/pkgs/main/win-64/libffi-3.4.4-hd77b12b_1.conda#9807b377e11739ae3e920e10e607e460
+https://repo.anaconda.com/pkgs/main/win-64/libmpdec-4.0.0-h827c3e9_0.conda#a294b317c2e3732cafdba824a893b80c
+https://repo.anaconda.com/pkgs/main/win-64/mkl-2023.1.0-h6b88ed4_46358.conda#15d96e057d3e7150f5504ead12036788
+https://repo.anaconda.com/pkgs/main/win-64/mkl-service-2.4.0-py313h827c3e9_2.conda#e8c6ccf01266f5ff3e6cef224146a5f0
+https://repo.anaconda.com/pkgs/main/win-64/mkl_fft-1.3.11-py313h827c3e9_0.conda#54b1b22935a8facef80cb0f6c55e831d
+https://repo.anaconda.com/pkgs/main/win-64/mkl_random-1.2.8-py313hce38976_0.conda#06db9af71e41557ea2cc284663121636
+https://repo.anaconda.com/pkgs/main/win-64/numpy-2.1.3-py313he6dc315_0.conda#d8fff0433f727388133d2bbc668a3c5a
+https://repo.anaconda.com/pkgs/main/win-64/numpy-base-2.1.3-py313h6011491_0.conda#c848cf9ae3604085a138ca955172c9ba
+https://repo.anaconda.com/pkgs/main/win-64/openssl-3.0.16-h3f729d1_0.conda#5ceb57e424ffe9918ba8f8af4fcc936a
+https://repo.anaconda.com/pkgs/main/noarch/pip-25.1-pyhc872135_2.conda#2778327d2a700153fefe0e69438b18e1
+https://repo.anaconda.com/pkgs/main/win-64/python-3.13.5-h286a616_100_cp313.conda#4f6849e0b216418f67afeda305e6afb7
+https://repo.anaconda.com/pkgs/main/win-64/python_abi-3.13-0_cp313.conda#fd87d8ec3270d306609b9715f6d45609
+https://repo.anaconda.com/pkgs/main/win-64/setuptools-72.1.0-py313haa95532_0.conda#db39da0274ddd38351da23436a40cdac
+https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.45.3-h2bbff1b_0.conda#c5b3b929349655302bf811c45571da6d
+https://repo.anaconda.com/pkgs/main/win-64/tbb-2021.8.0-h59b6b97_0.conda#aa60f11c1789a50a20be2e657e31513a
+https://repo.anaconda.com/pkgs/main/win-64/tk-8.6.14-h5e9d12e_1.conda#f788fb9c9b3e33945ba62282d18c75bb
+https://repo.anaconda.com/pkgs/main/noarch/tzdata-2025b-h04d1e81_0.conda#1d027393db3427ab22a02aa44a56f143
+https://repo.anaconda.com/pkgs/main/win-64/vc-14.42-haa95532_5.conda#398668823dc0d65fb53f81decb9dee60
+https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.42.34433-hbfb602d_5.conda#9f125b013ca3a3b47b4909a79cd3bcb9
+https://repo.anaconda.com/pkgs/main/win-64/wheel-0.45.1-py313haa95532_0.conda#1eee23a0c96246f29b008521ca706bbe
+https://repo.anaconda.com/pkgs/main/win-64/xz-5.6.4-h4754444_1.conda#6036999a3a2c7a3e3739d6b9351fcb0b
+https://repo.anaconda.com/pkgs/main/win-64/zlib-1.2.13-h8cc25b3_1.conda#1f7ea85632611b25599e4cddf5b51d7d

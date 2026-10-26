@@ -26,9 +26,11 @@ DLL fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9
 
 ## 获取来源与当前限制
 
-UrbanNav由IPNL-POLYU发布，官方[数据说明与下载入口](https://github.com/IPNL-POLYU/UrbanNavDataset)列出Medium-Urban-1及其GNSS资料。项目历史记录的GNSS归档入口为[原Dropbox文件夹](https://www.dropbox.com/sh/2haoy68xekg95zl/AAAkcN4FwhFxkPY1lXsxbJrxa?dl=1)，当时下载包22526745字节，SHA256为`b265d9983533b2c038ba2ec46c90a4c078bef5119fef128e6b843af3a1bc5fe2`。本次只核对说明页面，没有重新下载归档，当前下载内容与历史包的字节一致性未重新认证。官方网页或链接变化时应向项目负责人索取合法取得的指定文件及来源回执，不能静默换用其他接收机或其他时段。
+UrbanNav由IPNL-POLYU发布，官方[数据说明与下载入口](https://github.com/IPNL-POLYU/UrbanNavDataset)列出Medium-Urban-1及其GNSS资料。项目历史记录的GNSS归档入口为[原Dropbox文件夹](https://www.dropbox.com/sh/2haoy68xekg95zl/AAAkcN4FwhFxkPY1lXsxbJrxa?dl=1)，归档22526745字节，SHA256为`b265d9983533b2c038ba2ec46c90a4c078bef5119fef128e6b843af3a1bc5fe2`。2026-10-26交接核查已重新下载至内存，并确认归档及指定OBS成员哈希与历史文件完全一致。官方网页或链接变化时应向项目负责人确认来源，不能静默换用其他接收机或其他时段。
 
-NAV属于2021年第137天的BRDM00DLR广播产品。[DLR发布于IGS的产品说明](https://lists.igs.org/pipermail/igsmail/2022/008148.html)解释了BRDM的RINEX 3产品身份和数据中心渠道。该说明涉及后续BRD4发布，不能将2022年的BRD4文件替代本实验2021年的BRDM文件。本轮没有确认此文件的精确历史下载URL；复现时以产品名、日期、尺寸和上述解压文件哈希共同核对，并保留新的获取回执。
+NAV属于2021年第137天的BRDM00DLR广播产品。[DLR发布于IGS的产品说明](https://lists.igs.org/pipermail/igsmail/2022/008148.html)解释了BRDM的RINEX 3产品身份和数据中心渠道。不能将2022年的BRD4文件替代本实验2021年的BRDM文件。2026-10-26已从[BKG当前下载地址](https://igs.bkg.bund.de/root_ftp/IGS/BRDC/2021/137/BRDM00DLR_S_20211370000_01D_MN.rnx.gz)取得压缩文件，确认解压后的7357518字节和SHA256与原输入一致。这个当前可用地址不反向证明最早一次获取所用URL。
+
+当前下载身份回执在`reproduce/environment/data_download_identity.json`，下载和验证命令见[Windows准备指南](SETUP_WINDOWS.md)。原证据包中的来源JSON保留初次导出时的记录，不回写历史UNKNOWN字段。
 
 DLL的基础RTKLIB来源绑定提交`71db0ffa0d9735697c6adfd06fdf766d0e5ce807`，自定义包装构建来源在项目既有RETURN08资料中。仓库没有提供该二进制、自动下载地址或已认证重建安装器；共同作者需要由项目负责人确认合法使用范围并提供指定构建。现有源码许可证不能自动证明包装DLL及其所有链接组件具有公开再分发资格。
 

@@ -9,6 +9,7 @@ no manuscripts, full research reports, raw GNSS files, DLLs or numerical-library
 
 **共同作者从 [复现说明](docs/COAUTHOR_REPRODUCTION.md) 开始。**
 使用的数据、文件身份和获取条件见 [数据来源](docs/DATA_SOURCES.md)。
+接收者的数据下载、环境建立和固定窗口运行步骤见 [Windows准备指南](docs/SETUP_WINDOWS.md)。
 无需原研究目录、NumPy或DLL即可核查保存结果和80项有限输入证书：
 
 ```powershell

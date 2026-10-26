@@ -1,0 +1,32 @@
+{
+  "checked_utc": "2026-10-26T05:42:00Z",
+  "current_download_matches_frozen_inputs": true,
+  "sources": [
+    {
+      "role": "OBS",
+      "url": "https://www.dropbox.com/sh/2haoy68xekg95zl/AAAkcN4FwhFxkPY1lXsxbJrxa?dl=1",
+      "archive_bytes": 22526745,
+      "archive_sha256": "b265d9983533b2c038ba2ec46c90a4c078bef5119fef128e6b843af3a1bc5fe2",
+      "member": "UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "filename": "UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "bytes": 3156481,
+      "sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f",
+      "expected_sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f",
+      "matched": true,
+      "operation": "Download to memory, decompress target bytes and SHA256 only; no GNSS scientific parsing."
+    },
+    {
+      "role": "NAV",
+      "url": "https://igs.bkg.bund.de/root_ftp/IGS/BRDC/2021/137/BRDM00DLR_S_20211370000_01D_MN.rnx.gz",
+      "archive_bytes": 1244184,
+      "archive_sha256": "904e70cc2b0fe61e2751f216196b7a6f9769d932e8d7868ebffcc3789b012955",
+      "member": null,
+      "filename": "BRDM00DLR_S_20211370000_01D_MN.rnx",
+      "bytes": 7357518,
+      "sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915",
+      "expected_sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915",
+      "matched": true,
+      "operation": "Download to memory, decompress target bytes and SHA256 only; no GNSS scientific parsing."
+    }
+  ]
+}
