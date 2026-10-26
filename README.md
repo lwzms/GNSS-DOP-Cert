@@ -1,11 +1,22 @@
 # GNSS-ToolBox-118
 
-Private code-only repository limited to the GNSS paper on evidence-separated
+Private code and derived-evidence repository limited to the GNSS paper on evidence-separated
 qualification and certified finite-input numerical reproducibility.
 The executable package is `toolbox/`; start with `toolbox/README.md`.
 This repository contains source, tests, configuration templates, dependency and
-input/interface documentation. It contains no manuscripts, research reports,
-raw GNSS data, run results, DLLs or numerical-library distributions.
+input/interface documentation, and a bounded paper evidence package. It contains
+no manuscripts, full research reports, raw GNSS files, DLLs or numerical-library distributions.
+
+**共同作者从 [复现说明](docs/COAUTHOR_REPRODUCTION.md) 开始。**
+使用的数据、文件身份和获取条件见 [数据来源](docs/DATA_SOURCES.md)。
+无需原研究目录、NumPy或DLL即可核查保存结果和80项有限输入证书：
+
+```powershell
+python -I -B reproduce/verify_paper_evidence.py
+```
+
+This read-only command executes zero navigation calls. A PASS verifies the
+exported evidence and finite-input arithmetic, not an independent GNSS rerun.
 
 The current scientific contract is restricted to the previously specified
 20-epoch UrbanNav window. Other inputs and platforms are not certified.
@@ -38,7 +49,10 @@ No public redistribution licence is granted by this private storage operation.
 - `reproduce/`: fixed-angle/H/G/Q numerical replay, conditional offline comparison,
   and layered failure-receipt inspection using explicitly supplied saved inputs.
 - `docs/`: input sources, injected paths, dependency and result-interface contracts.
+- `evidence/urban_spp_fde_v1/`: authorized derived results, qualification rows,
+  production matrices, certificates and provenance for the same fixed window.
 
 Other GNSS algorithm prototypes, IMU research, mathematical theory, research
-reports, manuscript text and historical result arrays are outside this repository.
+reports and manuscript text are outside this repository. Only the explicitly
+listed paper evidence subset is included; the complete historical runs remain local.
 The supplementary numerical tools are not new estimators or default acceptance policies.

@@ -1,0 +1,38 @@
+{
+  "science_execution": {
+    "status": "SUCCEEDED",
+    "navigation_calls": 40,
+    "result_sealed": true,
+    "started_calls": 40
+  },
+  "runtime_recording": {
+    "status": "COMPLETE",
+    "recorded_requests": 40,
+    "matrix_identity_verified": true
+  },
+  "strict_regression": {
+    "status": "FAIL",
+    "mismatched_fields": 131,
+    "historical_status": "MATCHED",
+    "historical_mismatched_fields": 0,
+    "contract": "EXACT_REPLAY_SCIENCE_V1",
+    "paired_A_status": "MISMATCH",
+    "non_DOP_differences": 0
+  },
+  "numerical_certificate": {
+    "status": "CERTIFIED",
+    "certified_requests": 40,
+    "decision_region_status": "CERTIFIED",
+    "valid_region": 36,
+    "above_30": 4,
+    "paired_equivalence": "PRODUCTION_EVIDENCE_SUPPORTS_NUMERICAL_EQUIVALENCE",
+    "paired_certified_cells": 160
+  },
+  "delivery": {
+    "status": "EVIDENCE_ONLY_NOT_ACCEPTED",
+    "fully_sealed": false
+  },
+  "overall_status": "REGRESSION_FAILED",
+  "exit_code": 2,
+  "error": null
+}

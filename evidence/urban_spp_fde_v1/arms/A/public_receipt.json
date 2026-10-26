@@ -1,0 +1,34 @@
+{
+  "science_execution": {
+    "status": "SUCCEEDED",
+    "navigation_calls": 40,
+    "result_sealed": true,
+    "started_calls": 40
+  },
+  "runtime_recording": {
+    "status": "COMPLETE",
+    "recorded_requests": 40,
+    "matrix_identity_verified": true
+  },
+  "strict_regression": {
+    "status": "PASS",
+    "mismatched_fields": 0,
+    "historical_status": "MATCHED",
+    "historical_mismatched_fields": 0,
+    "contract": "EXACT_REPLAY_SCIENCE_V1"
+  },
+  "numerical_certificate": {
+    "status": "CERTIFIED",
+    "certified_requests": 40,
+    "decision_region_status": "CERTIFIED",
+    "valid_region": 36,
+    "above_30": 4
+  },
+  "delivery": {
+    "status": "COMPLETE",
+    "fully_sealed": true
+  },
+  "overall_status": "SUCCEEDED",
+  "exit_code": 0,
+  "error": null
+}

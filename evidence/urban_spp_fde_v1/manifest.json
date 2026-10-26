@@ -1,0 +1,2915 @@
+{
+  "version": "PAPER_EVIDENCE_MANIFEST_V1",
+  "trust_anchor": "Verify this Git commit through the authorized repository. This is an integrity inventory, not a digital signature.",
+  "files": [
+    {
+      "path": "arms/A/fresh_results.json",
+      "bytes": 84005,
+      "sha256": "ddbf97043226fa8cd5fa54c0ffa18082c5ae75877f3c10f4080ab582abf5cdd9"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "eadf94ddd0364ca6f865d2bce4ac9a35858aff86e1fdbe395e34496ab1b2b31c"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "a656303750798318ce339402f12f02ba9051a63e020e187791f080b499e785e3"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/G.npy",
+      "bytes": 256,
+      "sha256": "a646f13cee3e8ccf5e00ee58984eb52f228feb056c17ef7c080daa257458a829"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/H.npy",
+      "bytes": 288,
+      "sha256": "16e50d07747600c1b5c7e7fb7b6013a4c3d51b79c1c972a1265b77d266d18594"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d21e01933ffc0ca8242f4634ba5d0973b036d7e216e4370754392724c86d772a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "81efe000d757625b7e8e28db9edb3e1d8163bd38e4596061c647fc3098e823b6"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254533006000000/record.json",
+      "bytes": 9190,
+      "sha256": "67f414717b492ac0b1639316c5d9fcc1fcca0f383865500e80970327bcdbf2f2"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "e6d8487552f8e5bc11b48deb758a9f1b21784c9f5f2f2d8a2363ea4d098b1993"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "752ab0d64c435e7358260edab7468859ebf7cc43f808f5f78600f715dfeb5cd5"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/G.npy",
+      "bytes": 256,
+      "sha256": "e8afa3c4d161dae8ba9c30ba895983780b53e8b9b40e7129a02b99ba17aecbcc"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/H.npy",
+      "bytes": 320,
+      "sha256": "d979fb8cdc6300bff714dbe33fab9b3d4e88581e46ab03bf9fb05dae6c0be00f"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "5b1f7fc94e6563ed5655bbaecc0f9cc56158fa5dead863dd18467a3e22188d99"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a783f94b8a60be253cdacd567077535d7227187bbcdba8ebb28edfa14a81dc70"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254534006000000/record.json",
+      "bytes": 9811,
+      "sha256": "6e1498b6ad2dc11555010ca6c53bc6572c8a08de5717bb859e89327733a6fd19"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "2427f643ae5a64bdde45d9b803d4fe90bdd00ef05ac0db1252b0bb4f00942193"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "6a533b3c58422f13c56e012ec4511ae6485a125e9eb4cf5c5cfdefac2168e592"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/G.npy",
+      "bytes": 256,
+      "sha256": "a6d58a9eaa9d34d91dab64bb1e509c7a4447aa6f6d0ab73bc8915781897e9136"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/H.npy",
+      "bytes": 320,
+      "sha256": "9d7380b094a838bd7e7393cf5cf38eed4dfccf26e91ce33d3bb1b5003653a628"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d4f750c6625cdffbc399fd1a493d047cf18520b77fdae02e08aaea249930dc75"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "79bf47bfa2517b3dc5c49ae7178892a86ba93fe34f6f8474ddc2eacff1d322cd"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254535006000000/record.json",
+      "bytes": 9791,
+      "sha256": "86e859ff79e291667e4e0aef82963cf19a90f2f190ad2bfa0df78ce4a26e4b6e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "ab746925e1af0c61e221acb858e20dd97feab86d0cd9c345a0707e4eafb46fd0"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "51aacc309be7501dc6797388931a45cc25ae32ff8e1f89b7d9fc11c0a5954341"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/G.npy",
+      "bytes": 256,
+      "sha256": "ab3981e2a6d9fb9864a78733a8727d13ea0c5a74963c3275fa5b689bac6a4f69"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/H.npy",
+      "bytes": 320,
+      "sha256": "9ac6486c2ff0dcfcb74ff3b9f7eb4acae3f10e47d028880f1389f313da83346d"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "9b20e4bc1b13d1b8044fbd27224b87079d925a928d500649a6f60a6522fb751f"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "619d604c4ad367aab86e91df24a2f0801a034ad32c65fe095be57af0714e78d0"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254536006000000/record.json",
+      "bytes": 9787,
+      "sha256": "820c51ff107f0d3e92beb48f7467a932a1ccc9cba828d0c3bc9a4a848764972c"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3e3662bb04127b2097410ac756764d15a2da5a150d0c8c2dc100894e330de977"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b9aca99ee3005b6026a5adcb7c44c6eb67beee3a8393b2ef9548f14898c930fd"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/G.npy",
+      "bytes": 256,
+      "sha256": "e7511d4b711ac2b27bf1a6270fbb7d7444cec56087653dccd6158e0ebe366106"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bb54ed0cf0849e1bb02c24a6d1103c1bd00c29e82984171d613a527b6a45e2f0"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "e4a89225f2f840b06a67eb655dcb9f71507f452743d7be5a931e6e653f8aef46"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ec754c7747de2a10f7fd0fd9c739d9151eab0de86c3a5ccfee0741fc309a27c7"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254537006000000/record.json",
+      "bytes": 9196,
+      "sha256": "344cbf4e01573cb066334649a74c68f33b5678e39513fabfc3433d7055d0c783"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "269d6a3d4b20b11b7ac160f90137b01b5036827cb567f801cea93a37db4495c7"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "862cb5823ff33865976bedc2998b6b03dff409f7c04fe57dfdc89547ae6f13ec"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d4c272fdd91f1d125e8a6bfa773541cc2ab94f4551feefba867eeaf88c9443fb"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/H.npy",
+      "bytes": 256,
+      "sha256": "05d42803dadba8f0c4fcf7030a9bc5934c58bd241647c6c5c7be3a38168e134e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "7da3c3f9b7b0f410621d759e6a20e1b64a7eb388bd8c8ea61c8d131e8601bafb"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "31e975ecc8ece06f77742852937659c91d7d6d28b3594396ac733c7649f2f0ed"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254538006000000/record.json",
+      "bytes": 8595,
+      "sha256": "8b8c3c97f67ebdd5565d3c0abf55a51184581266cee7059b3a38dad67a0d8b47"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "2ca7549856cd760e23f19411a792b2a6044917bd01dd343314f6f72776d4eabc"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "417c735b96802ea6e47f4991d0aa0044a8b4d6934bf283f035b26d433099eead"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/G.npy",
+      "bytes": 256,
+      "sha256": "9d3b3a9f5ad6d2f4c03164e10547868b7321d92fcfcb71540be6ad4be64b7cd2"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/H.npy",
+      "bytes": 256,
+      "sha256": "08d3f920d0bea2164bfdf4cb511080d314e1acc692b653009f2c6cbc639580fb"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "f8748756c5bc66574003d9b9cff3faeb293d96004f207bf161df89aa31181dd6"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "6f6b56bd5caa75b5e7e4beead80b3f9fef21182550ddd769ab0bd9a1c9f1fd7e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254539006000000/record.json",
+      "bytes": 8589,
+      "sha256": "2e5c5f9e746474a78c56ccc4bad9299e4c74ad1a38df959ed4d64359947e93d1"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "7b622b7536dbd4ec259a4fa9c5b66aae40741278019f36e6d75c3e33619f124d"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "2f858b76e69c2f295c533ed7ff350c2933d40d61e40c77f0b649a81e38ee632e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/G.npy",
+      "bytes": 256,
+      "sha256": "1f667081165954baccb72f99b828a0e159dadb83ce208fc0211ea78802e3a8b5"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/H.npy",
+      "bytes": 256,
+      "sha256": "d3b6eea369b1eb505469b1b86698ac1d869f3480962c5898b337153c4d35768f"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "fedf69fb824bad81d0f67350caccfd6f0521b5ccb5857b41e15f729d79e36949"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ef99f8a56d77402b0e19fb425432f6ac3c2e64cc0013b672464ca6e5f1d38338"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254540006000000/record.json",
+      "bytes": 8588,
+      "sha256": "351ab299d3981e7cd1fc0391acab778de8853cf630fb20b938cf3969090e8b62"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "4b39d86efcc56adf067bd59b9c264c5f43a44c4b72d5a18ffc990574b7901b20"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0d4fe023a013edf48aab8c7c686217a0b20da648dfb2bb9d3dca9cf8dcc5b752"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/G.npy",
+      "bytes": 256,
+      "sha256": "86509a34faec041d110e5bada1554d326c1db9e0ed88c58cfdffdebf1b2e79fc"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/H.npy",
+      "bytes": 320,
+      "sha256": "fd64337d4a5e58bf61bb50ad70b7767d382c9c3c37395d9d06c9cde2e1a84e34"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "eacbf6c89b410e2543fcb16b4e635eb16130443fff8a21ba1b6bad108e2b8cbf"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "0a2c007c1558a49e4521024c924b684addd7976a582120a915385ef22f1dcf51"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254541006000000/record.json",
+      "bytes": 9791,
+      "sha256": "016ca5635e1c38904a65b3a15659e56c79399c941c5b837ec4604a3bcc1bc223"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3d6b33e145bd23498ce3cc5ed53d1eaa9aaa016ad55f18f60811dc9bad33bd08"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "127082e3e87d7b2eaeccc23b8d4dbff6ec7791f36b193301ee16476da306ffe0"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/G.npy",
+      "bytes": 256,
+      "sha256": "c22fba4f4958ad3dc573bf280185304dc28ad334b93b894272fd60ba07254406"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/H.npy",
+      "bytes": 288,
+      "sha256": "d23bdf81ad0c56d50b64e81354776bc2d57e1ad9a829acabc5fb1ac8e2dff12c"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d4415fc2e3d85c809ef9ff3517a945bad02e79ab294a30d22f2c5a430f7e6c90"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "343db79444ff39e30486050363dc3f6555eea4ff90e3ef45b51bd8888c3d7949"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254542006000000/record.json",
+      "bytes": 9175,
+      "sha256": "29c9a085ee8abc1201ab60013221ab4c665c3eacb5703e23cc62ccf6bddc6512"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "1e083b7955088dda3a7a3d25b6330368176afcafd349950b03e1d457d9ecbe9d"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "bd4010b715a9182c4db7c6d43cba7061a25bc15fce6dad00a891cbfa99a378dd"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/G.npy",
+      "bytes": 256,
+      "sha256": "304dc66e296730d2cf49aa7cea9f845317a3fca9511c047ec55cf39013709f2d"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/H.npy",
+      "bytes": 256,
+      "sha256": "4cdab3e8054122e5d83b022dea9acba3a10cc776a4ad4ffe56de16fa6c7f9614"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "504d646bacd177b4d264618031efd5b4d521c7def41ee432e32e099b98961ed5"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "3a044a4b6faa27f72d4b5a5ce224d125345db5d9f8f7febe28239d840b827b6b"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254543006000000/record.json",
+      "bytes": 8599,
+      "sha256": "fdd4deb23e68c0350f7ca2bba132bd73e08f3ccfb52ced568ed81e53b864a1b9"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ba76ca29d431446e64af72f861cc721acb27162addd86cb7688c2269af9069c1"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "239f8a985c42b982d25455d2b60cc8211351d76d3fa0b31f15225e3c1d031e53"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/G.npy",
+      "bytes": 256,
+      "sha256": "cd3aa28ad54375e886470f21c699f7237f4f64109bb9725ead11bcfe85e0593a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/H.npy",
+      "bytes": 288,
+      "sha256": "b775e9fd755292ef884157674632310f259d8a6ef071c8d8bd533544a1f7d7eb"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "ddfad05af9639e1e17afe216c7e8deeb1098a686a007a0fc3e9b2d333d668add"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "aaad579d73a99811e2a09808801c9776d3cff4d4ba61d42fe46bb22bd43d73a9"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254544006000000/record.json",
+      "bytes": 9178,
+      "sha256": "0c71acb566e3e7dcfd6df98c45014351aa9c86599c6e450bc51eea0354fea4ff"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "05127568466adbd0a6ae422b22a79ab511cea011bb117cc7495ce13adb667c4c"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "e635100d25ee1d09aa282e2d36bcedd84d6d5c117531089e67284e5cb1ae0fb6"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/G.npy",
+      "bytes": 256,
+      "sha256": "501972d18961ece24f0b1f19c72fb6d62d6fe2c863dab8496165acae2c54aeb1"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/H.npy",
+      "bytes": 320,
+      "sha256": "e3ed0736d2810908988260733dbddbc6d6bc85f42f03b467a27c372ce1a7704f"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "82f7c01a0b08fe600c7e848557639b85bd6e7ad2b9c3730c2d88ebdf1f22d35a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "acaff31f296e6b1dcc2d41b159e3c75498c4c96d6d3bcd7d5784135572b80475"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254545006000000/record.json",
+      "bytes": 9794,
+      "sha256": "883d819b1d0afde26f5a6c76ab39b07850a9a44f31aaa743dddf2ff65d703ee4"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "6738880d05b6d268b5239d54a9f89bf7b105736a5d4e27cebedab1d08a7965a8"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "3b347d7dc43978f95e5d35803a4b534036eb83157ca7300cdedcf8e8c8fb62e6"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d79ffd089515b11cb75794419a83e80aef578c9e95bbbfbcc7e2e0b22b6d50d9"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/H.npy",
+      "bytes": 352,
+      "sha256": "8852a30d96b6d0bcbd2f81b3db0ff3c036ab7ebf353369bc8b60680686ea56ad"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3cdcaf9eb397537bec9061ebcb7b19968fc1f54a401bfc4870be9b561e29e77a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c522e42ab8146a7ad68ec1f102745b7811d4295813505c7b4fc95c4fa6cd8939"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254546006000000/record.json",
+      "bytes": 10401,
+      "sha256": "67a7fa8c2137f22884b9ca7bd4b1d4d8509d1af5f39dfdf6fd49b83ff707eda7"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "1f91dedfae6948290ba22984be58b6a4e00f077de34af8ff5357ce670b851e2a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b4d97510ef86e18662cdfd0be85a5966ee7456918ec476431489d69be8040263"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/G.npy",
+      "bytes": 256,
+      "sha256": "0b3c32c5b42ffbaf2f17805353c22047e7dbb9e39d2e9c961130e8625f0aa835"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/H.npy",
+      "bytes": 352,
+      "sha256": "90563f2c9198de37eebb4fb0d6593add36f6c31525e25ae4c8b0ebf8a4793cde"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "94d009d9521aa33ca5f4fa188406a25ba4c5fb2c6419f14f9cfd7b45a8b76711"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "167e211d5f22516a7e708d42ffea991c5b3d23e4e6fdddde636084a511059a39"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254547006000000/record.json",
+      "bytes": 10383,
+      "sha256": "634728f3006c541acd4390561c6e9c6c17876ba466f11e173f5252cb426ae49a"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "59b9d3d54258b27687cb1c0982a094e1fa591908abbf551d296d36e9920c8e52"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "d6ff3c4f99ed2f036f3f5139914f0973f69ec2d873d9b32b0e71c903dd9dedd6"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/G.npy",
+      "bytes": 256,
+      "sha256": "5986c9b79afa98786915ff4892670e28f09f28d88e308e81dcd2f50b80d220c3"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/H.npy",
+      "bytes": 320,
+      "sha256": "26a30ad13d3bb2c9d7199e4ffb9ee006d61591da8ac30283488d7db5c3cdff8d"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "132df8021f037daf1384548dbfa0cbba71f0e4e264e0a9bb27ccceb5870fcc92"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "3cc78e79891ea429cfcfc4f30ceb98091c134d77b581d5ab364558396e4db91e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254548006000000/record.json",
+      "bytes": 9786,
+      "sha256": "8f310ecf2230904a1984bef17b495e0b08f2d829ac8afbb6ea91dad2a36e5500"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "164336dd171c9c77e83401b41a0c7d317ea82b5ecbd3b6d0676df92290bd5ee0"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "ed03ec9807c2ed5947cdff1b27421b6dc8a9c850271073042598b06eada779b3"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/G.npy",
+      "bytes": 256,
+      "sha256": "19038110c9e1cd065b233b8211394f6a1b41ef66bbb6c2b5e101e5c4bac39f73"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/H.npy",
+      "bytes": 384,
+      "sha256": "1c9b54eefdb7229a198275b68841ae7ef8d256f3e6a433d3e66e28f6997e2242"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "a617af0788ea2dc80c2dc785b0572a851b1d88efd393496d5e15725b10400ce1"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "75c5d95a225d2a14f7eac27d5d601a0059b9f0c322dae43d83736745e4bc1c2e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254549006000000/record.json",
+      "bytes": 10989,
+      "sha256": "bdbf328a42d68399c2d4dc0a789539b458db349557c8c51b66b920e38acc2f28"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "ff407473ef05c7312d2ab9949ad6701315c1ec2e83c62f35d412c38f5fd9e747"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "7c8278275faa9fdf0048ff79cc2482669fc7d77be4a027c2ae18731117243658"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/G.npy",
+      "bytes": 256,
+      "sha256": "98e4855f946204a766e10378ab16aefe86fe0ee834ada8cc87559385547ac137"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/H.npy",
+      "bytes": 384,
+      "sha256": "a72b671b753c12f542d6478cd46f5c8f4731caf7635152b1e0ba81f9a5ceb604"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "40d0c195c1f14dff624d3b5e534484bcf743c12393afa515937ce782896833de"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c08ddd398c683a799724e96cbb9b662f7a7c42a9bfe11c05d11ef2ed74d47084"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254550006000000/record.json",
+      "bytes": 10978,
+      "sha256": "a58093b7e5e1d54efacdbb0d7c35d7d61bf1516fa58eb06d3d8a9e5fe91902c7"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "43903bc8b3ea2aeec44f94825b592cbf4d35518d4896d86a5c36ead7cbee6d41"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "e94f90c129e90dcc463c32833e6fc0881d1f0985d09484c9a0600eb85dc4f48b"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d53df14218f9ea1350ca52368a61a074ce92d59ec6859f41c50812b68677efca"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/H.npy",
+      "bytes": 384,
+      "sha256": "e7e8974bce01fcac65cdc97fc689b7a786e0370b3921e6372d088a331730495e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "27c11bd3ca5499cf2ad07d1285ecd0793109b6d8b9b80638b38249b2db215bbe"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "d61acb3579a09821e93a501010283119bb3a1b7225a8493e3247d61d2976980e"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254551006000000/record.json",
+      "bytes": 10985,
+      "sha256": "9a43194d969ec788bbbae4d0dd6b54d572e1895e618332a1c6f2dc83becce9be"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "4534b7b3b9751fe5d0d84003040156841b8f82419d0505b1376aac9c72ceaf4f"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0216c3ae764de6488aeed5f81b8e0957600a13fdecf6cf11257cc855778e634c"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/G.npy",
+      "bytes": 256,
+      "sha256": "447de56403967b86e39d2efdd3c039c078aa4f48bd83abb6f372a89da09ee0a5"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/H.npy",
+      "bytes": 352,
+      "sha256": "0738b4da5059109e5ad1e83b81fad8169752279336a2778d821f5fa8db678c24"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "299c43c75ce97c1f7766de7485d65aa1ccbdfa46073f8decf06ceca39236d1ac"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a3cec923d6b787767eda366a22858eb44f5b24cb686e1af9bc183a543cfc3f81"
+    },
+    {
+      "path": "arms/A/matrices/A_1305254552006000000/record.json",
+      "bytes": 10391,
+      "sha256": "a12a4dc9794d2b11e1e5586c6fcc7bf53ee738b7a3dd2278581d9ea63817f00c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "eadf94ddd0364ca6f865d2bce4ac9a35858aff86e1fdbe395e34496ab1b2b31c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "a656303750798318ce339402f12f02ba9051a63e020e187791f080b499e785e3"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/G.npy",
+      "bytes": 256,
+      "sha256": "a646f13cee3e8ccf5e00ee58984eb52f228feb056c17ef7c080daa257458a829"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/H.npy",
+      "bytes": 288,
+      "sha256": "16e50d07747600c1b5c7e7fb7b6013a4c3d51b79c1c972a1265b77d266d18594"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d21e01933ffc0ca8242f4634ba5d0973b036d7e216e4370754392724c86d772a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "81efe000d757625b7e8e28db9edb3e1d8163bd38e4596061c647fc3098e823b6"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254533006000000/record.json",
+      "bytes": 9190,
+      "sha256": "80f94d3177db097cc4d6fe4751c9bcc8fecf496da81e4e252174a10a9779ba31"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ead023bd6ecfc5173392371c9edf3eb72d8cf75e1a79d137e2f3b138f3306642"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "58da9ee634fb7a6f510a20540c215c174f95c765d2bc908c2fc05439a2dc839c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/G.npy",
+      "bytes": 256,
+      "sha256": "3f14837480133ebf9424d68c0bb6a5cb894dc949a88d9fc12f9335d264f50d84"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bfe234ae956683e663e9d7a1f89a7173525b3abdf11370436e3dc6c43ca7b106"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d56cf6c0cb2d7f79a6cabecf6c171c2c5d95c4084083a627e6cb1abf62ec5a3d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a4d9a0a1a126d94dfd6862a624dc336b48da00c4482b5db86137d9694856d4ae"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254534006000000/record.json",
+      "bytes": 9166,
+      "sha256": "2cf154f715ce30b7e77d5b62abdb8c7b301c1b596127577a77952a64a8e27fe1"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "b5018617271f6e5abf5dbb8d7e8fefba9c00e74a2fe41920fc5693bc28424cc1"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "fd037d367bf9563de370781a6bf8664f8097b16aba6477544ed1a3fff9c9c332"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/G.npy",
+      "bytes": 256,
+      "sha256": "3cc3e72c16d6fcae2112cfca7c7e1ac777c3816359ff38b9d2babcf414729228"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/H.npy",
+      "bytes": 288,
+      "sha256": "1e403c2ff87ec36b61764dc5d6b5c6a85f55fe0e76b38d015ac08ac728f82ffa"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "27b8f7aa80bd63b285428279a5753dc5e79fab7527684e9ab68666aa337edd2f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c69eb3fa815edd54b6f9462e3d04895e571be86acf6224b3667ddd459e20d80c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254535006000000/record.json",
+      "bytes": 9195,
+      "sha256": "bdefd097dd0471a4b4a564bc93e2cd625ddb9f65453dd047601adf7bc65e9704"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "876891e695b11ec095fe7d893cd725ac17ee01125430305d6af32e03cd587b1d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b95666241f79c82eea60464365153ee0644e52895a83a55d5fa4fafd6778c946"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/G.npy",
+      "bytes": 256,
+      "sha256": "bd79fca0ecadfa853d13d4008695ff3425658522499b0fe89a3867607b0997a8"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/H.npy",
+      "bytes": 288,
+      "sha256": "555f509e15f5775b14431138908857c1cbc44a29eacb8c1c2169ca762dfebdd4"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "8f755e163a379eb4cfbd340f7d6e9f5a3ff55fea5ecb222693741412f99b7c9f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ffdfdc2eb9a9adb541f85126b79ee3d1b177db0ff43b09527abeea305afa5231"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254536006000000/record.json",
+      "bytes": 9183,
+      "sha256": "f8fc11e8a7b5e4163dded34be3a0cf0878d077af7df0b0ff98bbbeaf8420b0f2"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3e3662bb04127b2097410ac756764d15a2da5a150d0c8c2dc100894e330de977"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b9aca99ee3005b6026a5adcb7c44c6eb67beee3a8393b2ef9548f14898c930fd"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/G.npy",
+      "bytes": 256,
+      "sha256": "e7511d4b711ac2b27bf1a6270fbb7d7444cec56087653dccd6158e0ebe366106"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bb54ed0cf0849e1bb02c24a6d1103c1bd00c29e82984171d613a527b6a45e2f0"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "e4a89225f2f840b06a67eb655dcb9f71507f452743d7be5a931e6e653f8aef46"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ec754c7747de2a10f7fd0fd9c739d9151eab0de86c3a5ccfee0741fc309a27c7"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254537006000000/record.json",
+      "bytes": 9196,
+      "sha256": "932ac28989ab54b98aefc0854a2f32d4390572ba6772c36b9666e9ce197b703a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "269d6a3d4b20b11b7ac160f90137b01b5036827cb567f801cea93a37db4495c7"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "862cb5823ff33865976bedc2998b6b03dff409f7c04fe57dfdc89547ae6f13ec"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d4c272fdd91f1d125e8a6bfa773541cc2ab94f4551feefba867eeaf88c9443fb"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/H.npy",
+      "bytes": 256,
+      "sha256": "05d42803dadba8f0c4fcf7030a9bc5934c58bd241647c6c5c7be3a38168e134e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "7da3c3f9b7b0f410621d759e6a20e1b64a7eb388bd8c8ea61c8d131e8601bafb"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "31e975ecc8ece06f77742852937659c91d7d6d28b3594396ac733c7649f2f0ed"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254538006000000/record.json",
+      "bytes": 8595,
+      "sha256": "5a0837a54e75484f96dfa988eac0b982ed7e0c9bd5d419cfc9b41ba74ccf18be"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "2ca7549856cd760e23f19411a792b2a6044917bd01dd343314f6f72776d4eabc"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "417c735b96802ea6e47f4991d0aa0044a8b4d6934bf283f035b26d433099eead"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/G.npy",
+      "bytes": 256,
+      "sha256": "9d3b3a9f5ad6d2f4c03164e10547868b7321d92fcfcb71540be6ad4be64b7cd2"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/H.npy",
+      "bytes": 256,
+      "sha256": "08d3f920d0bea2164bfdf4cb511080d314e1acc692b653009f2c6cbc639580fb"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "f8748756c5bc66574003d9b9cff3faeb293d96004f207bf161df89aa31181dd6"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "6f6b56bd5caa75b5e7e4beead80b3f9fef21182550ddd769ab0bd9a1c9f1fd7e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254539006000000/record.json",
+      "bytes": 8589,
+      "sha256": "ea0b4774666ff5715f3a26d2547404c7bb981061f18e5f6f743f109be5e1a113"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "7b622b7536dbd4ec259a4fa9c5b66aae40741278019f36e6d75c3e33619f124d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "2f858b76e69c2f295c533ed7ff350c2933d40d61e40c77f0b649a81e38ee632e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/G.npy",
+      "bytes": 256,
+      "sha256": "1f667081165954baccb72f99b828a0e159dadb83ce208fc0211ea78802e3a8b5"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/H.npy",
+      "bytes": 256,
+      "sha256": "d3b6eea369b1eb505469b1b86698ac1d869f3480962c5898b337153c4d35768f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "fedf69fb824bad81d0f67350caccfd6f0521b5ccb5857b41e15f729d79e36949"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ef99f8a56d77402b0e19fb425432f6ac3c2e64cc0013b672464ca6e5f1d38338"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254540006000000/record.json",
+      "bytes": 8588,
+      "sha256": "298d8351f61a74c58ecae9eeb28e373a24b5089a7a0a9ecee6e66b3b6218ff4e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "7d8df5c2169d8367aaed10c427993d3845bacf6fdc269da14856c194003c8e1f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "53b77b48e80beabb7b896655796708ae86879a7d7dae7e3b3e6dddd5f25de2fe"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/G.npy",
+      "bytes": 256,
+      "sha256": "f1c07174c6bb1a3f6742e135cd2a4119bec12479a7b83d04a6dae0aa74e83a13"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/H.npy",
+      "bytes": 288,
+      "sha256": "98261d0a06b2d2182b4e2bea8f8629687ce081d3cae3995605bb00d258290c01"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d967acc91ed0ad9c10f5c2a4d3518571c692fa5be817dc476b60a3a068423fb8"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "fea8f002dc4656cc0e1aad41697ccaeecaca6f47dd5532ff26baf62db4548698"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254541006000000/record.json",
+      "bytes": 9202,
+      "sha256": "2914826ae7c3a46f74e55d777913b3756c00144033c95a7f93ef18571e2fbd43"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3d6b33e145bd23498ce3cc5ed53d1eaa9aaa016ad55f18f60811dc9bad33bd08"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "127082e3e87d7b2eaeccc23b8d4dbff6ec7791f36b193301ee16476da306ffe0"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/G.npy",
+      "bytes": 256,
+      "sha256": "c22fba4f4958ad3dc573bf280185304dc28ad334b93b894272fd60ba07254406"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/H.npy",
+      "bytes": 288,
+      "sha256": "d23bdf81ad0c56d50b64e81354776bc2d57e1ad9a829acabc5fb1ac8e2dff12c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d4415fc2e3d85c809ef9ff3517a945bad02e79ab294a30d22f2c5a430f7e6c90"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "343db79444ff39e30486050363dc3f6555eea4ff90e3ef45b51bd8888c3d7949"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254542006000000/record.json",
+      "bytes": 9175,
+      "sha256": "d1077d56acda7337a2ee023125a8742a5598d54a72c12912ce2fd74f7c855b26"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "1e083b7955088dda3a7a3d25b6330368176afcafd349950b03e1d457d9ecbe9d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "bd4010b715a9182c4db7c6d43cba7061a25bc15fce6dad00a891cbfa99a378dd"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/G.npy",
+      "bytes": 256,
+      "sha256": "304dc66e296730d2cf49aa7cea9f845317a3fca9511c047ec55cf39013709f2d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/H.npy",
+      "bytes": 256,
+      "sha256": "4cdab3e8054122e5d83b022dea9acba3a10cc776a4ad4ffe56de16fa6c7f9614"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "504d646bacd177b4d264618031efd5b4d521c7def41ee432e32e099b98961ed5"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "3a044a4b6faa27f72d4b5a5ce224d125345db5d9f8f7febe28239d840b827b6b"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254543006000000/record.json",
+      "bytes": 8599,
+      "sha256": "6b5a4e760a550d2342cde0f65061d5286e3c43326b76d9db0f23dde1c101aa4e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ba76ca29d431446e64af72f861cc721acb27162addd86cb7688c2269af9069c1"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "239f8a985c42b982d25455d2b60cc8211351d76d3fa0b31f15225e3c1d031e53"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/G.npy",
+      "bytes": 256,
+      "sha256": "cd3aa28ad54375e886470f21c699f7237f4f64109bb9725ead11bcfe85e0593a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/H.npy",
+      "bytes": 288,
+      "sha256": "b775e9fd755292ef884157674632310f259d8a6ef071c8d8bd533544a1f7d7eb"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "ddfad05af9639e1e17afe216c7e8deeb1098a686a007a0fc3e9b2d333d668add"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "aaad579d73a99811e2a09808801c9776d3cff4d4ba61d42fe46bb22bd43d73a9"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254544006000000/record.json",
+      "bytes": 9178,
+      "sha256": "345150d1f3fb0fc45d16c8787cae5b882da0854aa9acc9156b54d1bde4ad0ef0"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "05127568466adbd0a6ae422b22a79ab511cea011bb117cc7495ce13adb667c4c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "e635100d25ee1d09aa282e2d36bcedd84d6d5c117531089e67284e5cb1ae0fb6"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/G.npy",
+      "bytes": 256,
+      "sha256": "501972d18961ece24f0b1f19c72fb6d62d6fe2c863dab8496165acae2c54aeb1"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/H.npy",
+      "bytes": 320,
+      "sha256": "e3ed0736d2810908988260733dbddbc6d6bc85f42f03b467a27c372ce1a7704f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "82f7c01a0b08fe600c7e848557639b85bd6e7ad2b9c3730c2d88ebdf1f22d35a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "acaff31f296e6b1dcc2d41b159e3c75498c4c96d6d3bcd7d5784135572b80475"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254545006000000/record.json",
+      "bytes": 9794,
+      "sha256": "0e0d913a5cc0bf6515bf4927ee115934a38c624c8ea7f958b31200a8c2dc8ede"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "6738880d05b6d268b5239d54a9f89bf7b105736a5d4e27cebedab1d08a7965a8"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "3b347d7dc43978f95e5d35803a4b534036eb83157ca7300cdedcf8e8c8fb62e6"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d79ffd089515b11cb75794419a83e80aef578c9e95bbbfbcc7e2e0b22b6d50d9"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/H.npy",
+      "bytes": 352,
+      "sha256": "8852a30d96b6d0bcbd2f81b3db0ff3c036ab7ebf353369bc8b60680686ea56ad"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3cdcaf9eb397537bec9061ebcb7b19968fc1f54a401bfc4870be9b561e29e77a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c522e42ab8146a7ad68ec1f102745b7811d4295813505c7b4fc95c4fa6cd8939"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254546006000000/record.json",
+      "bytes": 10401,
+      "sha256": "dbf168175b17748abce275ecb9f7e3cde47b63b6066c8cc08d42cfc852dd5e9b"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "1f91dedfae6948290ba22984be58b6a4e00f077de34af8ff5357ce670b851e2a"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b4d97510ef86e18662cdfd0be85a5966ee7456918ec476431489d69be8040263"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/G.npy",
+      "bytes": 256,
+      "sha256": "0b3c32c5b42ffbaf2f17805353c22047e7dbb9e39d2e9c961130e8625f0aa835"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/H.npy",
+      "bytes": 352,
+      "sha256": "90563f2c9198de37eebb4fb0d6593add36f6c31525e25ae4c8b0ebf8a4793cde"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "94d009d9521aa33ca5f4fa188406a25ba4c5fb2c6419f14f9cfd7b45a8b76711"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "167e211d5f22516a7e708d42ffea991c5b3d23e4e6fdddde636084a511059a39"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254547006000000/record.json",
+      "bytes": 10383,
+      "sha256": "7d1adf439ec397df59e9ac3718470c18e5de6e5c6fa0853efefdd0cccd496fd8"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "59b9d3d54258b27687cb1c0982a094e1fa591908abbf551d296d36e9920c8e52"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "d6ff3c4f99ed2f036f3f5139914f0973f69ec2d873d9b32b0e71c903dd9dedd6"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/G.npy",
+      "bytes": 256,
+      "sha256": "5986c9b79afa98786915ff4892670e28f09f28d88e308e81dcd2f50b80d220c3"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/H.npy",
+      "bytes": 320,
+      "sha256": "26a30ad13d3bb2c9d7199e4ffb9ee006d61591da8ac30283488d7db5c3cdff8d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "132df8021f037daf1384548dbfa0cbba71f0e4e264e0a9bb27ccceb5870fcc92"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "3cc78e79891ea429cfcfc4f30ceb98091c134d77b581d5ab364558396e4db91e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254548006000000/record.json",
+      "bytes": 9786,
+      "sha256": "8512c1a8fc606f124170187a118ac7f70a729ce8c67e31f7c0b88442bae6b37c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "164336dd171c9c77e83401b41a0c7d317ea82b5ecbd3b6d0676df92290bd5ee0"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "ed03ec9807c2ed5947cdff1b27421b6dc8a9c850271073042598b06eada779b3"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/G.npy",
+      "bytes": 256,
+      "sha256": "19038110c9e1cd065b233b8211394f6a1b41ef66bbb6c2b5e101e5c4bac39f73"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/H.npy",
+      "bytes": 384,
+      "sha256": "1c9b54eefdb7229a198275b68841ae7ef8d256f3e6a433d3e66e28f6997e2242"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "a617af0788ea2dc80c2dc785b0572a851b1d88efd393496d5e15725b10400ce1"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "75c5d95a225d2a14f7eac27d5d601a0059b9f0c322dae43d83736745e4bc1c2e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254549006000000/record.json",
+      "bytes": 10989,
+      "sha256": "d36e65777b8eced6130d13b0281ac5e66b4e667d326687681dd0cd101f35a19d"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "ff407473ef05c7312d2ab9949ad6701315c1ec2e83c62f35d412c38f5fd9e747"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "7c8278275faa9fdf0048ff79cc2482669fc7d77be4a027c2ae18731117243658"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/G.npy",
+      "bytes": 256,
+      "sha256": "98e4855f946204a766e10378ab16aefe86fe0ee834ada8cc87559385547ac137"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/H.npy",
+      "bytes": 384,
+      "sha256": "a72b671b753c12f542d6478cd46f5c8f4731caf7635152b1e0ba81f9a5ceb604"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "40d0c195c1f14dff624d3b5e534484bcf743c12393afa515937ce782896833de"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c08ddd398c683a799724e96cbb9b662f7a7c42a9bfe11c05d11ef2ed74d47084"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254550006000000/record.json",
+      "bytes": 10978,
+      "sha256": "de619decac834a6b8adc9c3810cbcb9f185dc6e6b95cfeb51ed1bd69c0519231"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "43903bc8b3ea2aeec44f94825b592cbf4d35518d4896d86a5c36ead7cbee6d41"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "e94f90c129e90dcc463c32833e6fc0881d1f0985d09484c9a0600eb85dc4f48b"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/G.npy",
+      "bytes": 256,
+      "sha256": "d53df14218f9ea1350ca52368a61a074ce92d59ec6859f41c50812b68677efca"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/H.npy",
+      "bytes": 384,
+      "sha256": "e7e8974bce01fcac65cdc97fc689b7a786e0370b3921e6372d088a331730495e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "27c11bd3ca5499cf2ad07d1285ecd0793109b6d8b9b80638b38249b2db215bbe"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "d61acb3579a09821e93a501010283119bb3a1b7225a8493e3247d61d2976980e"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254551006000000/record.json",
+      "bytes": 10985,
+      "sha256": "c6349ae6c98144631b46a5841664320db627bbe6e424e8c7b5b71c5938c249ae"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "4534b7b3b9751fe5d0d84003040156841b8f82419d0505b1376aac9c72ceaf4f"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0216c3ae764de6488aeed5f81b8e0957600a13fdecf6cf11257cc855778e634c"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/G.npy",
+      "bytes": 256,
+      "sha256": "447de56403967b86e39d2efdd3c039c078aa4f48bd83abb6f372a89da09ee0a5"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/H.npy",
+      "bytes": 352,
+      "sha256": "0738b4da5059109e5ad1e83b81fad8169752279336a2778d821f5fa8db678c24"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "299c43c75ce97c1f7766de7485d65aa1ccbdfa46073f8decf06ceca39236d1ac"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a3cec923d6b787767eda366a22858eb44f5b24cb686e1af9bc183a543cfc3f81"
+    },
+    {
+      "path": "arms/A/matrices/B_1305254552006000000/record.json",
+      "bytes": 10391,
+      "sha256": "8cc4a636e9d00ab0a9fd4268d3a9b831da7d728b58bdf56ef823cd7faba020af"
+    },
+    {
+      "path": "arms/A/original_recording_seal.json",
+      "bytes": 51256,
+      "sha256": "03dba110af5c02652fd03cff0c66193a1161c7fb28f4e390f91e3506a22f280c"
+    },
+    {
+      "path": "arms/A/production_certificates.json",
+      "bytes": 699625,
+      "sha256": "399173eda46611e5def94ac837511ac98c4dd151f8be3e798bf4aa10f071b183"
+    },
+    {
+      "path": "arms/A/public_receipt.json",
+      "bytes": 806,
+      "sha256": "28c216bdd9a4b617d6a09409317417e1e6b6d1c61be0edc090db43267342404c"
+    },
+    {
+      "path": "arms/A/qualifications.csv",
+      "bytes": 121006,
+      "sha256": "cd5f47246edc69742c59427a8ffd9735927ed3e79afb0355017a7f39912d3f81"
+    },
+    {
+      "path": "arms/B/fresh_results.json",
+      "bytes": 83981,
+      "sha256": "16797739e9b7a0dcb4e1ba119b53637cc9825d31d981fa6dc7e3a68981f1d714"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "eadf94ddd0364ca6f865d2bce4ac9a35858aff86e1fdbe395e34496ab1b2b31c"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "79cee4f336f7bd8a1651cf92abcb3131857e74cdc96b54e68d45abf2bd0029d2"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/G.npy",
+      "bytes": 256,
+      "sha256": "62ac30473dff52ad36fe8135ff96d485756fbe525e0c2d2e3f1ae67fd3ab63c9"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/H.npy",
+      "bytes": 288,
+      "sha256": "16e50d07747600c1b5c7e7fb7b6013a4c3d51b79c1c972a1265b77d266d18594"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "1391574c9240e234be7d1d63310bcd488b665ecc08a3e275034bf459658c9ce0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "823b2e17e10bef50da2ab0cbbb9bd3841e4a1f7be96ff00a2358bea7c93a4556"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254533006000000/record.json",
+      "bytes": 9193,
+      "sha256": "30079f4b5f49b0fc799316635c30394d20bbcb8dc771a2522fbd8034b0c1c429"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "e6d8487552f8e5bc11b48deb758a9f1b21784c9f5f2f2d8a2363ea4d098b1993"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "8efb99c34a9e4f50533b53bdba92557480eff9bf48a9bf6a877b35e3f16afc92"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/G.npy",
+      "bytes": 256,
+      "sha256": "44f01a810ffd8d50674d9205770a0342bb87ceb16c0ff59b63f80346e4282ac3"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/H.npy",
+      "bytes": 320,
+      "sha256": "d979fb8cdc6300bff714dbe33fab9b3d4e88581e46ab03bf9fb05dae6c0be00f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "ac623208a30fbe6a7acde695189671ad5ef665c40473efcddfbd5a71652b292e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c904e89599046256c6a2445038483c3b084aef5eb82504700362917c4aaa0477"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254534006000000/record.json",
+      "bytes": 9815,
+      "sha256": "bab4562a20631de905b7209eeff189f58b20a501f8833cd5bc61424c127018e3"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "2427f643ae5a64bdde45d9b803d4fe90bdd00ef05ac0db1252b0bb4f00942193"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "768a2115a31928c8383705782ed404501d141912fbb69655c2649e7ce4d67069"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/G.npy",
+      "bytes": 256,
+      "sha256": "28eb50f6f4e82f4eb1ea421aa629d95bd113d5d21252195742fe40760f883fae"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/H.npy",
+      "bytes": 320,
+      "sha256": "9d7380b094a838bd7e7393cf5cf38eed4dfccf26e91ce33d3bb1b5003653a628"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "5c66f3df5d42680e46b5f8b70cffbdbbb9886bccb236e10423a64a14f3aa9fb0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "0abdb2d2476c087976e77c5ab04cd2893bdc2e2585deeaeaff75fc5900ca4b6e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254535006000000/record.json",
+      "bytes": 9791,
+      "sha256": "bd7ec989e09b959f339b838f23254c8ef8421bc90583373726002f631d8928a8"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "ab746925e1af0c61e221acb858e20dd97feab86d0cd9c345a0707e4eafb46fd0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "4772920c0b37dc196ad54b0a91875f3fccbb9c75b6883fe5a246d40c39134c65"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/G.npy",
+      "bytes": 256,
+      "sha256": "019a99a9d91890763c516256cbb165fe99581eb3e3848e0589ff8edef24b1829"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/H.npy",
+      "bytes": 320,
+      "sha256": "9ac6486c2ff0dcfcb74ff3b9f7eb4acae3f10e47d028880f1389f313da83346d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "807c95647a567a36c006fd208940f06d50d4849f512b0de34c870d76b13dff5e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "b63d8cf4eadfab35f8817b6ce47326bc721320529befe0e9c9a4b8a7d8351ba9"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254536006000000/record.json",
+      "bytes": 9787,
+      "sha256": "7e7e10d991ee0bd1ad97f8a2a7973d632425da5093aa6c2044824561177eb3bb"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3e3662bb04127b2097410ac756764d15a2da5a150d0c8c2dc100894e330de977"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "1338bbf8137b1630fcb7e580e7e4af0504d901cd597a7822856aefb08181b31a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/G.npy",
+      "bytes": 256,
+      "sha256": "799d7d459ab96c8002bf3c76a460a0283b655631bdd2f93b471a61ab75c41c33"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bb54ed0cf0849e1bb02c24a6d1103c1bd00c29e82984171d613a527b6a45e2f0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3fe6f0629c6bc8a02f8520c31e36a0f8cbc2b1137d39821609fa6f3d3d5ba501"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a878636f0ca53b4645d48536d1efa452d566d853f38c8332d8722ea4f995010a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254537006000000/record.json",
+      "bytes": 9196,
+      "sha256": "b902985929d7018f326f93323f72ed485906794ea72ff933241291c180693ece"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "269d6a3d4b20b11b7ac160f90137b01b5036827cb567f801cea93a37db4495c7"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0144604b1c49f93d64c8cc1289cc69169ce116914e211a680f279e1355eb8074"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/G.npy",
+      "bytes": 256,
+      "sha256": "641d9774404a932ee0be673ccb40a48df5fcf94e9a03a5c161c30f424ffe4bc8"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/H.npy",
+      "bytes": 256,
+      "sha256": "05d42803dadba8f0c4fcf7030a9bc5934c58bd241647c6c5c7be3a38168e134e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d9ccb4fbe6a27cf5b0f6fe2eca77d3d9b66899687d77b50c6c4c4bf8515fe25a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "34a629ce21264b00205a153ca232c1c201d2511c2a70704ae35142162c1f5c85"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254538006000000/record.json",
+      "bytes": 8601,
+      "sha256": "6bbf7dd4dc62d7b539fe870915dc756af8a173cc7420114125fb48ee0c6a807b"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "2ca7549856cd760e23f19411a792b2a6044917bd01dd343314f6f72776d4eabc"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "05ac42c8954d57c06bc003e1986435f432d762792512bb5f3a57960240f2e047"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8e7bb606e3dfd56dfbefd275b56f57e67d78db84fd516b69e637a745f8595ad3"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/H.npy",
+      "bytes": 256,
+      "sha256": "08d3f920d0bea2164bfdf4cb511080d314e1acc692b653009f2c6cbc639580fb"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "7f1213cb52af04865f0ece4d5c1a5861510ef3d097ec83319274363da2422259"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "e3db6198e2c02775f2ea4bee1e7b2c8b8097a1720d3163c2fd514a679ceaa60b"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254539006000000/record.json",
+      "bytes": 8592,
+      "sha256": "56eda6a1d15f39a90f7aaa19c6bd014a0d2f868124306b08f1c12af1cfa0a283"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "7b622b7536dbd4ec259a4fa9c5b66aae40741278019f36e6d75c3e33619f124d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "5274e25210829396e011279029dd465e0637f4554955d841121e7714c329e982"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8d403aa5656b1c1eeddb7195bc88fd21597709a2cf87f23f338effbab420e1c9"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/H.npy",
+      "bytes": 256,
+      "sha256": "d3b6eea369b1eb505469b1b86698ac1d869f3480962c5898b337153c4d35768f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "4a0fd322f4d134bd52c4a435d0247fd1a59b99c6c288b919971a36fd4a95bf43"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "eb499903d43b7c9c94e94103b853b83739d21c0f466a41aeb6e739ce158d2e08"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254540006000000/record.json",
+      "bytes": 8604,
+      "sha256": "1e17bf6faf1fe942990081fdbff774a47a32586fe1d036c868c546ce6150ec20"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "4b39d86efcc56adf067bd59b9c264c5f43a44c4b72d5a18ffc990574b7901b20"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "57b229594630223a082b9c989c26cb0427512cab1ec5b999ed68a0316e6d0775"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/G.npy",
+      "bytes": 256,
+      "sha256": "18f32c34345d3192077174ca7ad4e95b91cd878019ef776c142dace15adda506"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/H.npy",
+      "bytes": 320,
+      "sha256": "fd64337d4a5e58bf61bb50ad70b7767d382c9c3c37395d9d06c9cde2e1a84e34"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "5777a621e2ad7fcd7d0e2a48f971e22ce27c3d20befbe0b2cd85b9296fb8d925"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "74bcab74a40815e3651a11306acfa463eb19a6e0b6962dd85b23f7b4b26e1e9d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254541006000000/record.json",
+      "bytes": 9788,
+      "sha256": "2c9b9d76ceb76ae04c6d83f75880befaf13f0bb66a9c6124f8d1c46a1f252e41"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3d6b33e145bd23498ce3cc5ed53d1eaa9aaa016ad55f18f60811dc9bad33bd08"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b76e9dfdd53a28c6bb7c0fde3678275c3dd105d2236db3b60ebabb9f3dab2ac4"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/G.npy",
+      "bytes": 256,
+      "sha256": "2ff78a3b13d8f9030da7f1635458376997a5867cfd5f123acdeba614c5c83ce3"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/H.npy",
+      "bytes": 288,
+      "sha256": "d23bdf81ad0c56d50b64e81354776bc2d57e1ad9a829acabc5fb1ac8e2dff12c"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "f5525e61099bbf4bfcd9849d7066724c859d5476641be4a8b9500376b38bdb2f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a98a9d66956b5beaf3d28f0f8561d1ded37c192c11c3bf4c5ef9a3f844eb24bf"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254542006000000/record.json",
+      "bytes": 9175,
+      "sha256": "82ee686091a5acaf0e36afe2caf6cbdeee08a9781ba2405d72138ab645d63add"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "1e083b7955088dda3a7a3d25b6330368176afcafd349950b03e1d457d9ecbe9d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "ad8e6f4fcbaa09f847a7da79a8a22874f1aafe544b0ebcbf4989fcc5f0d2140e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/G.npy",
+      "bytes": 256,
+      "sha256": "51d504e9584d6aa7523bf51ff74c429d5dbb4b7f5f370f794363ebf142778e9b"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/H.npy",
+      "bytes": 256,
+      "sha256": "4cdab3e8054122e5d83b022dea9acba3a10cc776a4ad4ffe56de16fa6c7f9614"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3b1ed755e3e8a5f8f63f267cc7c83bd72c4fed91da829114f7f52ae6090ba0b9"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "12c7683e68a917d4ea9618d86a30cfb4c71f4c4697c9abe700f0486537a445ff"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254543006000000/record.json",
+      "bytes": 8598,
+      "sha256": "f8dd905a7a6c03dabf3ac483cb59e39d7dfac7f80d394c5d60a3b1dd6fc6dae8"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ba76ca29d431446e64af72f861cc721acb27162addd86cb7688c2269af9069c1"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "49c9512430bf4a0d44750abce28888761d917b30ec03851e0ba84ee1e3459aa7"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/G.npy",
+      "bytes": 256,
+      "sha256": "1a90eb25074e8caefca47b70007cbc08639a47faa0a1a27b0ef88167de06ba2d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/H.npy",
+      "bytes": 288,
+      "sha256": "b775e9fd755292ef884157674632310f259d8a6ef071c8d8bd533544a1f7d7eb"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "cbd9455176a7a2b4d03aebf632fffd256f7747cb52dba01d36c140e11955559d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "698fec4fe7d3c1915f11cfccee931696634882c964adfe1ad63da00f64d34976"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254544006000000/record.json",
+      "bytes": 9181,
+      "sha256": "d34b17220da80b6220cdc34ae402341643c752769c9343e48785f796c5f8de4d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "05127568466adbd0a6ae422b22a79ab511cea011bb117cc7495ce13adb667c4c"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "899426a3653cec9806d61e34f60f706c20ec454e171e0fbf5400851d0b07b144"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8675755577af6e271bd0095503c1df8de12a5e1591876a804be42fbc9b333786"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/H.npy",
+      "bytes": 320,
+      "sha256": "e3ed0736d2810908988260733dbddbc6d6bc85f42f03b467a27c372ce1a7704f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "c064c641c4220a207558624600b788c60acbc095474f1fe03a8abb01a0a5e1b2"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "eab1dd61a336ae1c9f3c23d67c2d13c1acc3cb8d3a1a4519ef8b4397c01002b3"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254545006000000/record.json",
+      "bytes": 9789,
+      "sha256": "d99791192b5b0409ed1a789026da8e2d16ed1045e9fb292d19ed5b9a128a6044"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "6738880d05b6d268b5239d54a9f89bf7b105736a5d4e27cebedab1d08a7965a8"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "efa531d3934bc6ae16aac5c48a4940468bdb8276849bd3766b1e4b1a44609bda"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8e7c1c16a50cb1cded2df3537dbcf37465391b1e2a66a8779d9f6ad93ae2cc8d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/H.npy",
+      "bytes": 352,
+      "sha256": "8852a30d96b6d0bcbd2f81b3db0ff3c036ab7ebf353369bc8b60680686ea56ad"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "e46670a565bd69b2974af0d9928ea07b01633c29ace7da9addb1bfe1627fd5cc"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "bff80b6925e33506d59fdd71592e49ddc35422487292ae1b2f5ffe21251bad68"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254546006000000/record.json",
+      "bytes": 10404,
+      "sha256": "fc15ebac3e05d459a0c77a7924e4b6292c7aa6fc2275dadf7cb6448896e1b579"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "1f91dedfae6948290ba22984be58b6a4e00f077de34af8ff5357ce670b851e2a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "f19d28e0d294367ffb073a97ce99c1e40ea98908d4accb54c3eb40b2c1a791c7"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/G.npy",
+      "bytes": 256,
+      "sha256": "f18031a63d5925405180bea9731f32fcf069ab0f07eae6ef3b4446315c67f130"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/H.npy",
+      "bytes": 352,
+      "sha256": "90563f2c9198de37eebb4fb0d6593add36f6c31525e25ae4c8b0ebf8a4793cde"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "a5a4e5c5850d16612c7d8466dd59851abcd80370061e70e239e22c51b38a68bf"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c9271d1e3fcd4b35366412e8b164eaf72414b046137dc2eed1498d43b987b696"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254547006000000/record.json",
+      "bytes": 10392,
+      "sha256": "1d3a1e45c29ce15263b7e5f2af422c5070fce3b5da1cc1f943aa7868ea07f816"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "59b9d3d54258b27687cb1c0982a094e1fa591908abbf551d296d36e9920c8e52"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "a995b3605d296ca3632d8f9e0fef7258ad9d73c3e4531dac18f61cd01734cbe0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/G.npy",
+      "bytes": 256,
+      "sha256": "f72a8e38cc92e6ffbab7464082f1dbb12f866da12df716813464be3e6d3c1e48"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/H.npy",
+      "bytes": 320,
+      "sha256": "26a30ad13d3bb2c9d7199e4ffb9ee006d61591da8ac30283488d7db5c3cdff8d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "dc964b8f03e82ff8984e3892e7b5349dec072c701b2dda2d970d788c7e838596"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "919f05d39d61c9b0e901145c4979587ee06466e0c08fceb6e69ec0f59ce90b30"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254548006000000/record.json",
+      "bytes": 9780,
+      "sha256": "c49a01d79e921cc67a7c601827e855b8e5a9fc80c8db8e6d060317b20324d272"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "164336dd171c9c77e83401b41a0c7d317ea82b5ecbd3b6d0676df92290bd5ee0"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "146b3a370b21f1f977727003beba358b23514b397aa4108ca27d2100b2b6a02a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/G.npy",
+      "bytes": 256,
+      "sha256": "2e2219aa0043011f2dc3aeda384becb15c3847f7089628bdbd8fa034b3cb9d11"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/H.npy",
+      "bytes": 384,
+      "sha256": "1c9b54eefdb7229a198275b68841ae7ef8d256f3e6a433d3e66e28f6997e2242"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "68943612357e14cbedc5e6e0c996edce0f686e08e700a2263fd993642e81a584"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "675bdb66a5f47d6b96c5cd1c84d27e6505a72f9cd818f5c6ddccf04b9fae9a25"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254549006000000/record.json",
+      "bytes": 10988,
+      "sha256": "267cee30d139292bdd29045ad0e32e9e82d28a1a960ac41a3bf65bd6ed228e0f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "ff407473ef05c7312d2ab9949ad6701315c1ec2e83c62f35d412c38f5fd9e747"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "27c5a402d6a82c9edb9153cf0405c4bd72bd476b62c2fa7d9b6a15a0b0201e8c"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/G.npy",
+      "bytes": 256,
+      "sha256": "5de064874603ebca6e34a0101f980ada6c47cd3ae9ca5563f00b5c0608d1866d"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/H.npy",
+      "bytes": 384,
+      "sha256": "a72b671b753c12f542d6478cd46f5c8f4731caf7635152b1e0ba81f9a5ceb604"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "270847aaa94f1a20fb5bd6b20bc3d3d773955489fae685b45e703314b0bd83c4"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ae18721e83b94dbc0a2efef812d1a9dc51c2eed46829ac30f23a5798ec6174a7"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254550006000000/record.json",
+      "bytes": 10985,
+      "sha256": "f4e098a10ab29de9a2be8ac25fde35edda79e2281e7d5b717e7bcb40d96fdc33"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "43903bc8b3ea2aeec44f94825b592cbf4d35518d4896d86a5c36ead7cbee6d41"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "f924c955503ccb40af407d275315d26a7c60930f156592a2ccd7849f30789da8"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/G.npy",
+      "bytes": 256,
+      "sha256": "fb28953ec2bebf5badbd1cb57692dabe8835086fa6d2a058c13fe4deada01049"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/H.npy",
+      "bytes": 384,
+      "sha256": "e7e8974bce01fcac65cdc97fc689b7a786e0370b3921e6372d088a331730495e"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "5e3c6f608c22ab52a22085006f3cee7feb5bc21af1ea30368f236671e2fa11bb"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "d5c18e415394b11687af7f02239390a53783ddd92af7022fc9e44b3bc723e31a"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254551006000000/record.json",
+      "bytes": 10987,
+      "sha256": "578a979acdcbf13710b3fffa2c746efd4bac42f579bc26f0da3da87afda95eb5"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "4534b7b3b9751fe5d0d84003040156841b8f82419d0505b1376aac9c72ceaf4f"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0216c3ae764de6488aeed5f81b8e0957600a13fdecf6cf11257cc855778e634c"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/G.npy",
+      "bytes": 256,
+      "sha256": "35c0c85b47a7b8b72e73bdde6a349e94cd6232dfb948188af5d6144b79dc2cb2"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/H.npy",
+      "bytes": 352,
+      "sha256": "0738b4da5059109e5ad1e83b81fad8169752279336a2778d821f5fa8db678c24"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "64a2e585a3ddc4eca2b45ab326649f8d57f206f465471b1e366cee7816568a22"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "0ee87f87da7330d7b6ae8bf7ab91f5da73b2b901466279df5ec2a7820fbf0d75"
+    },
+    {
+      "path": "arms/B/matrices/A_1305254552006000000/record.json",
+      "bytes": 10395,
+      "sha256": "a446f4b3e86e7217a483b6882c5745f84f707a29b58382b48448345650d90c4e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "eadf94ddd0364ca6f865d2bce4ac9a35858aff86e1fdbe395e34496ab1b2b31c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "79cee4f336f7bd8a1651cf92abcb3131857e74cdc96b54e68d45abf2bd0029d2"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/G.npy",
+      "bytes": 256,
+      "sha256": "62ac30473dff52ad36fe8135ff96d485756fbe525e0c2d2e3f1ae67fd3ab63c9"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/H.npy",
+      "bytes": 288,
+      "sha256": "16e50d07747600c1b5c7e7fb7b6013a4c3d51b79c1c972a1265b77d266d18594"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "1391574c9240e234be7d1d63310bcd488b665ecc08a3e275034bf459658c9ce0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "823b2e17e10bef50da2ab0cbbb9bd3841e4a1f7be96ff00a2358bea7c93a4556"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254533006000000/record.json",
+      "bytes": 9193,
+      "sha256": "283de1b4218c3c43398d70598d0d170e09865335e3825f9cd11cb3182ac43400"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ead023bd6ecfc5173392371c9edf3eb72d8cf75e1a79d137e2f3b138f3306642"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "d68a631d96390c0d91ef5cf84b42bd68610f913ff4846c28a693e0661ee2ac1c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/G.npy",
+      "bytes": 256,
+      "sha256": "7ac2ee2bed3cd66a85fe23475b906c5c567a6d3a93100a580f7c8d990e250c2c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bfe234ae956683e663e9d7a1f89a7173525b3abdf11370436e3dc6c43ca7b106"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "4f822e8223ecca48fd8e77a2da0c037ec4409d98c4eeca2907c4ea744b7a9e59"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c6f095d37c477235f6dfd21d4867321533142fd4c01d34b314201f7b1cd8afeb"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254534006000000/record.json",
+      "bytes": 9168,
+      "sha256": "28402ce44e9fbae44bbc98383ed59a239cfdd6a218a6e205d7f404659e2cc25e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "b5018617271f6e5abf5dbb8d7e8fefba9c00e74a2fe41920fc5693bc28424cc1"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b2d1919b30abe38fdca63ae73d74e55a4ffd980717017ee28a6b17c567e23c18"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/G.npy",
+      "bytes": 256,
+      "sha256": "78bfa3d2dd08e4868a571efbbb9823ad16a8fac87f60473d009d2828a3b1e488"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/H.npy",
+      "bytes": 288,
+      "sha256": "1e403c2ff87ec36b61764dc5d6b5c6a85f55fe0e76b38d015ac08ac728f82ffa"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "861cc46b7abfad4f66e32f38f810bb8a8ad7663aa069bdfc6a2846492efea297"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "af1b2bd328204b18d2fbbf7e1910cda62a5e1d2f3f7d94d0810a2cc8cec1a43f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254535006000000/record.json",
+      "bytes": 9196,
+      "sha256": "1fc79f30ed3ac2e4e11f353c11dbfc68cd5a045eac8891515fcc81bb55492d11"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "876891e695b11ec095fe7d893cd725ac17ee01125430305d6af32e03cd587b1d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "6a9931ea9c2c78c5754a89e5f86f6800ce1c45cc44e9da61fc801e04b88767f0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/G.npy",
+      "bytes": 256,
+      "sha256": "fc8b92122ffea6334a9817564b612e6f9a561b7d17b117fd5edaedf15495bf56"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/H.npy",
+      "bytes": 288,
+      "sha256": "555f509e15f5775b14431138908857c1cbc44a29eacb8c1c2169ca762dfebdd4"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "83b09c113d76df2997324ae77db6e4d40d53fc7c2b97da0423c9a3f1f106b0eb"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "bdbc5f2ec141d1db3b48885c5727fae4c4ccffc6e50b8a456111690939577043"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254536006000000/record.json",
+      "bytes": 9186,
+      "sha256": "6868754f429d75977455afc939e6402256310daf7c7581689f30ce83f461f1ce"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3e3662bb04127b2097410ac756764d15a2da5a150d0c8c2dc100894e330de977"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "1338bbf8137b1630fcb7e580e7e4af0504d901cd597a7822856aefb08181b31a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/G.npy",
+      "bytes": 256,
+      "sha256": "799d7d459ab96c8002bf3c76a460a0283b655631bdd2f93b471a61ab75c41c33"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/H.npy",
+      "bytes": 288,
+      "sha256": "bb54ed0cf0849e1bb02c24a6d1103c1bd00c29e82984171d613a527b6a45e2f0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3fe6f0629c6bc8a02f8520c31e36a0f8cbc2b1137d39821609fa6f3d3d5ba501"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a878636f0ca53b4645d48536d1efa452d566d853f38c8332d8722ea4f995010a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254537006000000/record.json",
+      "bytes": 9196,
+      "sha256": "ccf7daac8d8c2c5bb1062f0ada55a815a215743a53011be4193b626010c2dd4c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "269d6a3d4b20b11b7ac160f90137b01b5036827cb567f801cea93a37db4495c7"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0144604b1c49f93d64c8cc1289cc69169ce116914e211a680f279e1355eb8074"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/G.npy",
+      "bytes": 256,
+      "sha256": "641d9774404a932ee0be673ccb40a48df5fcf94e9a03a5c161c30f424ffe4bc8"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/H.npy",
+      "bytes": 256,
+      "sha256": "05d42803dadba8f0c4fcf7030a9bc5934c58bd241647c6c5c7be3a38168e134e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "d9ccb4fbe6a27cf5b0f6fe2eca77d3d9b66899687d77b50c6c4c4bf8515fe25a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "34a629ce21264b00205a153ca232c1c201d2511c2a70704ae35142162c1f5c85"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254538006000000/record.json",
+      "bytes": 8601,
+      "sha256": "aa0ab49342b0fdc21bb219c5fb56b0c29f53a646744753931962dfff923ea0b4"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "2ca7549856cd760e23f19411a792b2a6044917bd01dd343314f6f72776d4eabc"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "05ac42c8954d57c06bc003e1986435f432d762792512bb5f3a57960240f2e047"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8e7bb606e3dfd56dfbefd275b56f57e67d78db84fd516b69e637a745f8595ad3"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/H.npy",
+      "bytes": 256,
+      "sha256": "08d3f920d0bea2164bfdf4cb511080d314e1acc692b653009f2c6cbc639580fb"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "7f1213cb52af04865f0ece4d5c1a5861510ef3d097ec83319274363da2422259"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "e3db6198e2c02775f2ea4bee1e7b2c8b8097a1720d3163c2fd514a679ceaa60b"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254539006000000/record.json",
+      "bytes": 8592,
+      "sha256": "80d8e767d292a62ba828263d104b33a54f8543981c52dcf63f5e323d4c8a2fa1"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "7b622b7536dbd4ec259a4fa9c5b66aae40741278019f36e6d75c3e33619f124d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "5274e25210829396e011279029dd465e0637f4554955d841121e7714c329e982"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8d403aa5656b1c1eeddb7195bc88fd21597709a2cf87f23f338effbab420e1c9"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/H.npy",
+      "bytes": 256,
+      "sha256": "d3b6eea369b1eb505469b1b86698ac1d869f3480962c5898b337153c4d35768f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "4a0fd322f4d134bd52c4a435d0247fd1a59b99c6c288b919971a36fd4a95bf43"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "eb499903d43b7c9c94e94103b853b83739d21c0f466a41aeb6e739ce158d2e08"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254540006000000/record.json",
+      "bytes": 8604,
+      "sha256": "dfb4aea1c42e1b75857bce48fbd616b1b0a8ddfcf992765f249ad6d0ce5e1da5"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "7d8df5c2169d8367aaed10c427993d3845bacf6fdc269da14856c194003c8e1f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "271b467fe7880337f47d0bfa614771226cf4b7b226cd17f41f521d1ee505bb74"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/G.npy",
+      "bytes": 256,
+      "sha256": "4c1584e18a4f6f3641350ff573a16a0a28878533e8ab1426949197e46be94420"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/H.npy",
+      "bytes": 288,
+      "sha256": "98261d0a06b2d2182b4e2bea8f8629687ce081d3cae3995605bb00d258290c01"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "b92faae06b57567ff66285e8dc8ab606f71232ddebf6a76830f4520332773963"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "b0fa7112b1b1d7ef1bd78542f33d3c00481d53d2a677afe907f639de163b9fc7"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254541006000000/record.json",
+      "bytes": 9188,
+      "sha256": "33ccfa3c3482b7e6a6464db3ade31ee2d0efea4a7876ad6cef1da42e4f6ac8f4"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "3d6b33e145bd23498ce3cc5ed53d1eaa9aaa016ad55f18f60811dc9bad33bd08"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "b76e9dfdd53a28c6bb7c0fde3678275c3dd105d2236db3b60ebabb9f3dab2ac4"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/G.npy",
+      "bytes": 256,
+      "sha256": "2ff78a3b13d8f9030da7f1635458376997a5867cfd5f123acdeba614c5c83ce3"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/H.npy",
+      "bytes": 288,
+      "sha256": "d23bdf81ad0c56d50b64e81354776bc2d57e1ad9a829acabc5fb1ac8e2dff12c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "f5525e61099bbf4bfcd9849d7066724c859d5476641be4a8b9500376b38bdb2f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "a98a9d66956b5beaf3d28f0f8561d1ded37c192c11c3bf4c5ef9a3f844eb24bf"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254542006000000/record.json",
+      "bytes": 9175,
+      "sha256": "180a50173b79b8ecccd431bd7a19d104259c368dce8efdc7013b2fb9fa257828"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/angles.npy",
+      "bytes": 192,
+      "sha256": "1e083b7955088dda3a7a3d25b6330368176afcafd349950b03e1d457d9ecbe9d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "ad8e6f4fcbaa09f847a7da79a8a22874f1aafe544b0ebcbf4989fcc5f0d2140e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/G.npy",
+      "bytes": 256,
+      "sha256": "51d504e9584d6aa7523bf51ff74c429d5dbb4b7f5f370f794363ebf142778e9b"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/H.npy",
+      "bytes": 256,
+      "sha256": "4cdab3e8054122e5d83b022dea9acba3a10cc776a4ad4ffe56de16fa6c7f9614"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "3b1ed755e3e8a5f8f63f267cc7c83bd72c4fed91da829114f7f52ae6090ba0b9"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "12c7683e68a917d4ea9618d86a30cfb4c71f4c4697c9abe700f0486537a445ff"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254543006000000/record.json",
+      "bytes": 8598,
+      "sha256": "aea1c1db7503b86cf87a39e2aa5702aadddb6717d713e06b8400457d6f868822"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/angles.npy",
+      "bytes": 208,
+      "sha256": "ba76ca29d431446e64af72f861cc721acb27162addd86cb7688c2269af9069c1"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "49c9512430bf4a0d44750abce28888761d917b30ec03851e0ba84ee1e3459aa7"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/G.npy",
+      "bytes": 256,
+      "sha256": "1a90eb25074e8caefca47b70007cbc08639a47faa0a1a27b0ef88167de06ba2d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/H.npy",
+      "bytes": 288,
+      "sha256": "b775e9fd755292ef884157674632310f259d8a6ef071c8d8bd533544a1f7d7eb"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "cbd9455176a7a2b4d03aebf632fffd256f7747cb52dba01d36c140e11955559d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "698fec4fe7d3c1915f11cfccee931696634882c964adfe1ad63da00f64d34976"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254544006000000/record.json",
+      "bytes": 9181,
+      "sha256": "c9a93ee56d4181766edb744b2c735f92207a3de4f6ae3b7c0e83d02827d36e5d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "05127568466adbd0a6ae422b22a79ab511cea011bb117cc7495ce13adb667c4c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "899426a3653cec9806d61e34f60f706c20ec454e171e0fbf5400851d0b07b144"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8675755577af6e271bd0095503c1df8de12a5e1591876a804be42fbc9b333786"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/H.npy",
+      "bytes": 320,
+      "sha256": "e3ed0736d2810908988260733dbddbc6d6bc85f42f03b467a27c372ce1a7704f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "c064c641c4220a207558624600b788c60acbc095474f1fe03a8abb01a0a5e1b2"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "eab1dd61a336ae1c9f3c23d67c2d13c1acc3cb8d3a1a4519ef8b4397c01002b3"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254545006000000/record.json",
+      "bytes": 9789,
+      "sha256": "93323c9ffb9f41f3460313e5c5309036952c6444b8625c991f1a0a64e705c468"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "6738880d05b6d268b5239d54a9f89bf7b105736a5d4e27cebedab1d08a7965a8"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "efa531d3934bc6ae16aac5c48a4940468bdb8276849bd3766b1e4b1a44609bda"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/G.npy",
+      "bytes": 256,
+      "sha256": "8e7c1c16a50cb1cded2df3537dbcf37465391b1e2a66a8779d9f6ad93ae2cc8d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/H.npy",
+      "bytes": 352,
+      "sha256": "8852a30d96b6d0bcbd2f81b3db0ff3c036ab7ebf353369bc8b60680686ea56ad"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "e46670a565bd69b2974af0d9928ea07b01633c29ace7da9addb1bfe1627fd5cc"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "bff80b6925e33506d59fdd71592e49ddc35422487292ae1b2f5ffe21251bad68"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254546006000000/record.json",
+      "bytes": 10404,
+      "sha256": "034eb264df1d2bd116315090f79535c8ebaf945f232941a2931512749b52e930"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "1f91dedfae6948290ba22984be58b6a4e00f077de34af8ff5357ce670b851e2a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "f19d28e0d294367ffb073a97ce99c1e40ea98908d4accb54c3eb40b2c1a791c7"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/G.npy",
+      "bytes": 256,
+      "sha256": "f18031a63d5925405180bea9731f32fcf069ab0f07eae6ef3b4446315c67f130"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/H.npy",
+      "bytes": 352,
+      "sha256": "90563f2c9198de37eebb4fb0d6593add36f6c31525e25ae4c8b0ebf8a4793cde"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "a5a4e5c5850d16612c7d8466dd59851abcd80370061e70e239e22c51b38a68bf"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "c9271d1e3fcd4b35366412e8b164eaf72414b046137dc2eed1498d43b987b696"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254547006000000/record.json",
+      "bytes": 10392,
+      "sha256": "0b191e5505661fc91db27905b95d08bb7735961458d66c5d7f86bcd8f3e40d8c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/angles.npy",
+      "bytes": 224,
+      "sha256": "59b9d3d54258b27687cb1c0982a094e1fa591908abbf551d296d36e9920c8e52"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "a995b3605d296ca3632d8f9e0fef7258ad9d73c3e4531dac18f61cd01734cbe0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/G.npy",
+      "bytes": 256,
+      "sha256": "f72a8e38cc92e6ffbab7464082f1dbb12f866da12df716813464be3e6d3c1e48"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/H.npy",
+      "bytes": 320,
+      "sha256": "26a30ad13d3bb2c9d7199e4ffb9ee006d61591da8ac30283488d7db5c3cdff8d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "dc964b8f03e82ff8984e3892e7b5349dec072c701b2dda2d970d788c7e838596"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "919f05d39d61c9b0e901145c4979587ee06466e0c08fceb6e69ec0f59ce90b30"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254548006000000/record.json",
+      "bytes": 9780,
+      "sha256": "94387bdd510ba9448931233cae2307852f07dc73165838315f4414fdc6b129da"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "164336dd171c9c77e83401b41a0c7d317ea82b5ecbd3b6d0676df92290bd5ee0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "146b3a370b21f1f977727003beba358b23514b397aa4108ca27d2100b2b6a02a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/G.npy",
+      "bytes": 256,
+      "sha256": "2e2219aa0043011f2dc3aeda384becb15c3847f7089628bdbd8fa034b3cb9d11"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/H.npy",
+      "bytes": 384,
+      "sha256": "1c9b54eefdb7229a198275b68841ae7ef8d256f3e6a433d3e66e28f6997e2242"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "68943612357e14cbedc5e6e0c996edce0f686e08e700a2263fd993642e81a584"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "675bdb66a5f47d6b96c5cd1c84d27e6505a72f9cd818f5c6ddccf04b9fae9a25"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254549006000000/record.json",
+      "bytes": 10988,
+      "sha256": "8265457236380549e822893a5373f902177606164e12e1a2383daab7f44ce3c0"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "ff407473ef05c7312d2ab9949ad6701315c1ec2e83c62f35d412c38f5fd9e747"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "27c5a402d6a82c9edb9153cf0405c4bd72bd476b62c2fa7d9b6a15a0b0201e8c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/G.npy",
+      "bytes": 256,
+      "sha256": "5de064874603ebca6e34a0101f980ada6c47cd3ae9ca5563f00b5c0608d1866d"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/H.npy",
+      "bytes": 384,
+      "sha256": "a72b671b753c12f542d6478cd46f5c8f4731caf7635152b1e0ba81f9a5ceb604"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "270847aaa94f1a20fb5bd6b20bc3d3d773955489fae685b45e703314b0bd83c4"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "ae18721e83b94dbc0a2efef812d1a9dc51c2eed46829ac30f23a5798ec6174a7"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254550006000000/record.json",
+      "bytes": 10985,
+      "sha256": "5e8d06a3e8df77c55c50176ee9cb5f8429cbebc7d8d70c640cfe3818cea4a62e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/angles.npy",
+      "bytes": 256,
+      "sha256": "43903bc8b3ea2aeec44f94825b592cbf4d35518d4896d86a5c36ead7cbee6d41"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "f924c955503ccb40af407d275315d26a7c60930f156592a2ccd7849f30789da8"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/G.npy",
+      "bytes": 256,
+      "sha256": "fb28953ec2bebf5badbd1cb57692dabe8835086fa6d2a058c13fe4deada01049"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/H.npy",
+      "bytes": 384,
+      "sha256": "e7e8974bce01fcac65cdc97fc689b7a786e0370b3921e6372d088a331730495e"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "5e3c6f608c22ab52a22085006f3cee7feb5bc21af1ea30368f236671e2fa11bb"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "d5c18e415394b11687af7f02239390a53783ddd92af7022fc9e44b3bc723e31a"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254551006000000/record.json",
+      "bytes": 10987,
+      "sha256": "7d5ef76e02ce8c6fd0c24b8c78aea0ecb85bfddc629e2893f6fc9f9c28db3837"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/angles.npy",
+      "bytes": 240,
+      "sha256": "4534b7b3b9751fe5d0d84003040156841b8f82419d0505b1376aac9c72ceaf4f"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/diagonal_sums.npy",
+      "bytes": 160,
+      "sha256": "0216c3ae764de6488aeed5f81b8e0957600a13fdecf6cf11257cc855778e634c"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/G.npy",
+      "bytes": 256,
+      "sha256": "35c0c85b47a7b8b72e73bdde6a349e94cd6232dfb948188af5d6144b79dc2cb2"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/H.npy",
+      "bytes": 352,
+      "sha256": "0738b4da5059109e5ad1e83b81fad8169752279336a2778d821f5fa8db678c24"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/Q.npy",
+      "bytes": 256,
+      "sha256": "64a2e585a3ddc4eca2b45ab326649f8d57f206f465471b1e366cee7816568a22"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/Q_diagonal.npy",
+      "bytes": 160,
+      "sha256": "0ee87f87da7330d7b6ae8bf7ab91f5da73b2b901466279df5ec2a7820fbf0d75"
+    },
+    {
+      "path": "arms/B/matrices/B_1305254552006000000/record.json",
+      "bytes": 10395,
+      "sha256": "c29ed09ee6b5e624dec7c219ff4a4fe6bb0a64a7a5b5c3c9d5465cf77d68cd95"
+    },
+    {
+      "path": "arms/B/original_recording_seal.json",
+      "bytes": 51256,
+      "sha256": "f114ad84f49650ea624948720f57b2d28729cd4f314fc7bcd729a6a2a194d1e9"
+    },
+    {
+      "path": "arms/B/production_certificates.json",
+      "bytes": 698662,
+      "sha256": "fb321f75df6d13acc47b36a6e6fb6229116f0f3f65186012114fd7e6d7c2704a"
+    },
+    {
+      "path": "arms/B/public_receipt.json",
+      "bytes": 1019,
+      "sha256": "858cf0edaae2b140442cfdd87e086f58d7525e887e16a2b6014489d3ca1b8981"
+    },
+    {
+      "path": "arms/B/qualifications.csv",
+      "bytes": 120999,
+      "sha256": "19242f5188afc3a83ae0f81b6c557d290a136dfe4f924a14c7433628f27c0d81"
+    },
+    {
+      "path": "comparisons/A_historical.json",
+      "bytes": 3358,
+      "sha256": "eb786c7d0f3bcc942aef135c619bef56d4fba2a5e6106ae25596456fa09cd441"
+    },
+    {
+      "path": "comparisons/B_historical.json",
+      "bytes": 3358,
+      "sha256": "eb786c7d0f3bcc942aef135c619bef56d4fba2a5e6106ae25596456fa09cd441"
+    },
+    {
+      "path": "comparisons/paired_A_B.json",
+      "bytes": 26893,
+      "sha256": "bb9155e0fe1219b9a9caa9ded0c415550e9aedf46d54b1e06ef6612d2a58fb1b"
+    },
+    {
+      "path": "data_sources.json",
+      "bytes": 3460,
+      "sha256": "96fb9b907e8c615d2abbdb39d51cf9dcca51ea6a51fbdf0cc7c7fd3c45c40d4c"
+    },
+    {
+      "path": "dop_pairs.csv",
+      "bytes": 20876,
+      "sha256": "5de1e3e5c2f4582f8b603eb6a8dcf16987d0ad2f7e93369fffa854b6bb087afc"
+    },
+    {
+      "path": "environments.json",
+      "bytes": 18032,
+      "sha256": "e52e5d17f0990d3777df5a7aa1e0f3f3cba07a4b678ae00fed5d5085755d2e01"
+    },
+    {
+      "path": "fixed_input_stage_summary.json",
+      "bytes": 8611,
+      "sha256": "4f255a97d28d80f12d0308d81c8dba34203678667a2cc8af7f9bce285b365e26"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3559,
+      "sha256": "ad22abc6eb078c97cc3355758fc9e85e3a4eb2ba13805f84d04c19c4ba731e22"
+    },
+    {
+      "path": "source_provenance.json",
+      "bytes": 270161,
+      "sha256": "d72beb31353952baf351c667584de15b16b267e92610d9bba5416288cee393bc"
+    }
+  ],
+  "verification_code": [
+    {
+      "path": "reproduce/verify_paper_evidence.py",
+      "sha256": "9fe0d3768012e708f0384347e0c4979c94bebd31810d399c58c6b54be81a4b52"
+    },
+    {
+      "path": "reproduce/test_paper_evidence.py",
+      "sha256": "f7f20ef2924c405c34edf6a70015af2a1219f788f9d380ce2dd7a07c800617ed"
+    },
+    {
+      "path": "toolbox/src/certify.py",
+      "sha256": "33426f174528d22d21e61de1a94ee3de6f0349fda1c454e299ed241298afb77f"
+    }
+  ]
+}

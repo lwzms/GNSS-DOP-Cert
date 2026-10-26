@@ -1,0 +1,568 @@
+{
+  "A": {
+    "utc": "2026-10-25T09:08:27.731166+00:00",
+    "python_sha256": "cec2fab4b3258900cc330346de8c664e57fa04227406920a6edb06f0efeeebb1",
+    "python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:37:03) [MSC v.1929 64 bit (AMD64)]",
+    "numpy": "2.1.3",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "cpu_features": {
+      "MMX": true,
+      "SSE": true,
+      "SSE2": true,
+      "SSE3": true,
+      "SSSE3": true,
+      "SSE41": true,
+      "POPCNT": true,
+      "SSE42": true,
+      "AVX": true,
+      "F16C": true,
+      "XOP": false,
+      "FMA4": false,
+      "FMA3": true,
+      "AVX2": true,
+      "AVX512F": false,
+      "AVX512CD": false,
+      "AVX512ER": false,
+      "AVX512PF": false,
+      "AVX5124FMAPS": false,
+      "AVX5124VNNIW": false,
+      "AVX512VPOPCNTDQ": false,
+      "AVX512VL": false,
+      "AVX512BW": false,
+      "AVX512DQ": false,
+      "AVX512VNNI": false,
+      "AVX512IFMA": false,
+      "AVX512VBMI": false,
+      "AVX512VBMI2": false,
+      "AVX512BITALG": false,
+      "AVX512FP16": false,
+      "AVX512_KNL": false,
+      "AVX512_KNM": false,
+      "AVX512_SKX": false,
+      "AVX512_CLX": false,
+      "AVX512_CNL": false,
+      "AVX512_ICL": false,
+      "AVX512_SPR": false,
+      "VSX": false,
+      "VSX2": false,
+      "VSX3": false,
+      "VSX4": false,
+      "VX": false,
+      "VXE": false,
+      "VXE2": false,
+      "NEON": false,
+      "NEON_FP16": false,
+      "NEON_VFPV4": false,
+      "ASIMD": false,
+      "FPHP": false,
+      "ASIMDHP": false,
+      "ASIMDDP": false,
+      "ASIMDFHM": false,
+      "SVE": false,
+      "RVV": false
+    },
+    "source_sha256": "974012b35f0649cbace97a9108c7ba960a8176946aa4c6482cd508534bb73774",
+    "loaded_binaries": [
+      {
+        "basename": "python.exe",
+        "sha256": "388fe2cffda8a134e7d7dc4e978f7c478857ece6b69694daecbed25e51ec633a"
+      },
+      {
+        "basename": "ntdll.dll",
+        "sha256": "651ac9041af8e6b5ebd331d53163244c0a27d36d1433f0f15cac1f28c5f2e82c"
+      },
+      {
+        "basename": "KERNEL32.DLL",
+        "sha256": "e132eba4166256e2f414b91fe7d5386590bc5ea8626aee5af9c9738383cf2ae1"
+      },
+      {
+        "basename": "KERNELBASE.dll",
+        "sha256": "5c29b73622ce0976e1ada566f31f2197ba0f8beaea89c3ec033366126172c3d0"
+      },
+      {
+        "basename": "ucrtbase.dll",
+        "sha256": "dedb7611e1abc1ff3852dcac3d4c93a048d729e25b061973b9969f22698f14ca"
+      },
+      {
+        "basename": "VCRUNTIME140.dll",
+        "sha256": "052ad6a20d375957e82aa6a3c441ea548d89be0981516ca7eb306e063d5027f4"
+      },
+      {
+        "basename": "python313.dll",
+        "sha256": "266889b30355dc5a03dd5e15b0a43966e7a58e33c9916da22c583169d9aab2e4"
+      },
+      {
+        "basename": "WS2_32.dll",
+        "sha256": "b123b00c46c415d7baeaada58c29c3e6920895db836ee4c0cfee49d738af60ad"
+      },
+      {
+        "basename": "RPCRT4.dll",
+        "sha256": "c060f02c11fb19c9c8a30b5077a87cdb17d4be40f08070a539ec73eb53402775"
+      },
+      {
+        "basename": "ADVAPI32.dll",
+        "sha256": "b864e1468a01a44f1901e03c05c1029e71655dd9abddd6d840bcfff5e7227d44"
+      },
+      {
+        "basename": "msvcrt.dll",
+        "sha256": "fc1447db4e4814cbcb002179a8003a41f383fc417879f628727043cab8c25093"
+      },
+      {
+        "basename": "sechost.dll",
+        "sha256": "b4a345ad9af0635f50e27eea8ae0ff37255dca90e6d5991bdbc4806fb02aaa72"
+      },
+      {
+        "basename": "VERSION.dll",
+        "sha256": "cea99f212af557a9613150c5509631403ed0f05f5d9a06ac42039bd59b40e39a"
+      },
+      {
+        "basename": "zlib.dll",
+        "sha256": "8dbfd6ef7374a831158bddccb79e3d5665e9625c81af557f15b4150b7877f687"
+      },
+      {
+        "basename": "bcrypt.dll",
+        "sha256": "d0fc7863d7b034da33f34dc82b96a8604572598a217668a43fc9eca3a8e2a8e1"
+      },
+      {
+        "basename": "bcryptprimitives.dll",
+        "sha256": "f0dba794068893c9616b0b54bef1be8f904be89eb2cb09b575d3d7fb1b5000f8"
+      },
+      {
+        "basename": "python3.DLL",
+        "sha256": "ad9bb678597d9b4c81ab9b590a8b45fe803d1be80528c534ce29db8ef93808e6"
+      },
+      {
+        "basename": "_ctypes.pyd",
+        "sha256": "8d835c32650a6e10a60fcafcde07d66ded5ba4823599cd5c72d1774a3116390d"
+      },
+      {
+        "basename": "ole32.dll",
+        "sha256": "1053ffb858cddbe29eaaa6a5b0836b88c7cd11fbd58605288600e507c06db443"
+      },
+      {
+        "basename": "msvcp_win.dll",
+        "sha256": "b9dacd83201e59bb74e5282d8f0dcc8c428525409b4bc458a39eb8d2a9373a9a"
+      },
+      {
+        "basename": "GDI32.dll",
+        "sha256": "772c73e294a4c5f5e0d4146288af95287a85c074d3aee3fa9f320dc010d7dbfe"
+      },
+      {
+        "basename": "win32u.dll",
+        "sha256": "d46a695db805e808efa63d1095ce3e1b6be9c0155dad405d444530efc1ed0362"
+      },
+      {
+        "basename": "gdi32full.dll",
+        "sha256": "52de3e02898e9c0e243d08d5c51d54871e9bce90de883eff7df29a30fc8aeac9"
+      },
+      {
+        "basename": "USER32.dll",
+        "sha256": "f285937030bcb325cad39ee5be4818f6666241229adeadea4ff1ae469dfd7ef3"
+      },
+      {
+        "basename": "ffi.dll",
+        "sha256": "eb22fc95044ce939910d41857445bd0ecc4fc4d810ba30cc6b5f7f55b48ac8ed"
+      },
+      {
+        "basename": "combase.dll",
+        "sha256": "087f72ecc0c979a3b784ab319285ab64d053dfc0c274df5b28fd40cf204a234f"
+      },
+      {
+        "basename": "OLEAUT32.dll",
+        "sha256": "e3fcdbbf040fd1e3c3504876cf060ac3908c134ac81b3d0c57f0f735769280ea"
+      },
+      {
+        "basename": "IMM32.DLL",
+        "sha256": "7e45f12c1c555e2407c5ca082bd925b34655278fde4dbfac53a0468cc1e77411"
+      },
+      {
+        "basename": "_decimal.pyd",
+        "sha256": "9555ef3c9407d6b4eefbe504c5e55c8e0ec4bcece5fd6bc69e0d952a63f226a9"
+      },
+      {
+        "basename": "libmpdec-4.dll",
+        "sha256": "81ff8522e6267db6e90ce68eb68eed1e3f8a508d536f68fbf70d9cee8a2a0e9d"
+      },
+      {
+        "basename": "_hashlib.pyd",
+        "sha256": "e719a2bdb8b36a902c3cf91657fce6c64032ea628c6b07b661774fa8a3f2d167"
+      },
+      {
+        "basename": "libcrypto-3-x64.dll",
+        "sha256": "97ebc121e9478d09358acf8d8c68b465eaa99f8ee3cd515b3d440525b6a9ce90"
+      },
+      {
+        "basename": "CRYPT32.dll",
+        "sha256": "71da5f9806f7aaf9e081c1df28b13182d2643b7f3534173f868ba65287612bbb"
+      },
+      {
+        "basename": "_mklinit.cp313-win_amd64.pyd",
+        "sha256": "a11b3d92d319b9cbdd6022fd58b28acac27f8701b138401c2d4d044075efcfb4"
+      },
+      {
+        "basename": "mkl_rt.2.dll",
+        "sha256": "c12e83ca5e325b15f75242cf1d72e4258a96af09fd178ca5d1bb8e6f43fe47b7"
+      },
+      {
+        "basename": "_py_mkl_service.cp313-win_amd64.pyd",
+        "sha256": "512284e8dbd6b3225e1dfe44979da8d313a2e8911aed56f84e8e17aa5f063192"
+      },
+      {
+        "basename": "mkl_intel_thread.2.dll",
+        "sha256": "ba1a121f78e0217b50c8801ccc3a7319ccf1e4c919302248f075a78dcc453646"
+      },
+      {
+        "basename": "mkl_core.2.dll",
+        "sha256": "e38ec813d5b02f965c1ac9cd3fe17fc5887ace354e75ef7b73853593c2f1b78f"
+      },
+      {
+        "basename": "mkl_avx2.2.dll",
+        "sha256": "76961a420889fc8836f3e004c47c7cf62b98950ff84319297c1ee2585d5736a0"
+      },
+      {
+        "basename": "mkl_vml_avx2.2.dll",
+        "sha256": "09bf9d58893dcdeb0f444302a259814fd603c0db1b3ec98c909ad02b6c6da62b"
+      },
+      {
+        "basename": "_multiarray_umath.cp313-win_amd64.pyd",
+        "sha256": "4d49180bb6fe1a32b807c3557a8dfc8bb02589cfb7ac256e0a89116ddfafd6d7"
+      },
+      {
+        "basename": "MSVCP140.dll",
+        "sha256": "b99eb28a471311113f5c4109cb3c463f39cfd9bdb3b07f706204dedddb4516a1"
+      },
+      {
+        "basename": "VCRUNTIME140_1.dll",
+        "sha256": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8"
+      },
+      {
+        "basename": "_wmi.pyd",
+        "sha256": "6e18ed66837faadf28960f2f165651f11e7eb7206c37c2da08ce2d0b46969289"
+      },
+      {
+        "basename": "PROPSYS.dll",
+        "sha256": "1d9e7fc09a540c6b23d239f2dceeb0a57a7a1f51e1c90ad28401ecb202f4b39b"
+      },
+      {
+        "basename": "_umath_linalg.cp313-win_amd64.pyd",
+        "sha256": "437a8b7014d9dcd5c828854765f566a89bd4e84341df9797dfaff972a8d9de69"
+      },
+      {
+        "basename": "_bz2.pyd",
+        "sha256": "5a74a78c569981b07f9e5954617482e546c3ea6a6bcb8481b62828d2be1535f4"
+      },
+      {
+        "basename": "LIBBZ2.dll",
+        "sha256": "25a4aae35dd89709620106db311af5bca7c868182b961e106a895ae14d2fc98a"
+      },
+      {
+        "basename": "_lzma.pyd",
+        "sha256": "22f8741370b9636efc8ca57c85bd0f4db63388b6321c4bee1a60d4cefd44bee6"
+      },
+      {
+        "basename": "liblzma.dll",
+        "sha256": "84c81962664426eefdc5ffcb8dc022c3a63c3fac737b9396e23219c2cfd38e2e"
+      },
+      {
+        "basename": "psapi.DLL",
+        "sha256": "6c8ebe6621224d11ded0c920873d67b5255fd515e8c4ea803cd587c8232bee5c"
+      }
+    ],
+    "numpy_build": {
+      "Compilers": {
+        "c": {
+          "name": "msvc",
+          "version": "19.29.30156"
+        },
+        "cython": {
+          "name": "cython",
+          "version": "3.0.11"
+        },
+        "c++": {
+          "name": "msvc",
+          "version": "19.29.30156"
+        }
+      },
+      "Machine Information": {
+        "host": {},
+        "build": {}
+      },
+      "Build Dependencies": {
+        "blas": {
+          "name": "mkl-sdl",
+          "version": "2023.1",
+          "found": true
+        },
+        "lapack": {
+          "name": "mkl-sdl",
+          "version": "2023.1",
+          "found": true
+        }
+      },
+      "Python Information": {},
+      "SIMD Extensions": {}
+    },
+    "redactions": "Executable, module and library absolute paths; sys.path; prefixes; environment variables. Historical binary hashes are evidence, not bundled runtimes."
+  },
+  "B": {
+    "utc": "2026-10-25T09:09:09.605073+00:00",
+    "python_sha256": "0fcdb300f48833ead742026d28ced1290bbde06dad3bc359f8e62ed85f6db1e0",
+    "python": "3.13.3 (main, May 30 2025, 05:37:00) [MSC v.1943 64 bit (AMD64)]",
+    "numpy": "2.1.3",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "cpu_features": {
+      "MMX": true,
+      "SSE": true,
+      "SSE2": true,
+      "SSE3": true,
+      "SSSE3": true,
+      "SSE41": true,
+      "POPCNT": true,
+      "SSE42": true,
+      "AVX": true,
+      "F16C": true,
+      "XOP": false,
+      "FMA4": false,
+      "FMA3": true,
+      "AVX2": true,
+      "AVX512F": false,
+      "AVX512CD": false,
+      "AVX512ER": false,
+      "AVX512PF": false,
+      "AVX5124FMAPS": false,
+      "AVX5124VNNIW": false,
+      "AVX512VPOPCNTDQ": false,
+      "AVX512VL": false,
+      "AVX512BW": false,
+      "AVX512DQ": false,
+      "AVX512VNNI": false,
+      "AVX512IFMA": false,
+      "AVX512VBMI": false,
+      "AVX512VBMI2": false,
+      "AVX512BITALG": false,
+      "AVX512FP16": false,
+      "AVX512_KNL": false,
+      "AVX512_KNM": false,
+      "AVX512_SKX": false,
+      "AVX512_CLX": false,
+      "AVX512_CNL": false,
+      "AVX512_ICL": false,
+      "AVX512_SPR": false,
+      "VSX": false,
+      "VSX2": false,
+      "VSX3": false,
+      "VSX4": false,
+      "VX": false,
+      "VXE": false,
+      "VXE2": false,
+      "NEON": false,
+      "NEON_FP16": false,
+      "NEON_VFPV4": false,
+      "ASIMD": false,
+      "FPHP": false,
+      "ASIMDHP": false,
+      "ASIMDDP": false,
+      "ASIMDFHM": false,
+      "SVE": false,
+      "RVV": false
+    },
+    "source_sha256": "75748a1c957cb1d1d352d9004b1325bde08ce264ea55c15429c7894a341ebd8b",
+    "loaded_binaries": [
+      {
+        "basename": "python.exe",
+        "sha256": "2a1e488ddc0ebcd79147d019c4a77b337c207d597c6db5a746f59f7da574738a"
+      },
+      {
+        "basename": "ntdll.dll",
+        "sha256": "651ac9041af8e6b5ebd331d53163244c0a27d36d1433f0f15cac1f28c5f2e82c"
+      },
+      {
+        "basename": "KERNEL32.DLL",
+        "sha256": "e132eba4166256e2f414b91fe7d5386590bc5ea8626aee5af9c9738383cf2ae1"
+      },
+      {
+        "basename": "KERNELBASE.dll",
+        "sha256": "5c29b73622ce0976e1ada566f31f2197ba0f8beaea89c3ec033366126172c3d0"
+      },
+      {
+        "basename": "ucrtbase.dll",
+        "sha256": "dedb7611e1abc1ff3852dcac3d4c93a048d729e25b061973b9969f22698f14ca"
+      },
+      {
+        "basename": "VCRUNTIME140.dll",
+        "sha256": "1a130e77ef1995a593e7e621fa384c8404dcfa90ba705fb12ac8ad47b2812edb"
+      },
+      {
+        "basename": "python313.dll",
+        "sha256": "828012008e5b19070c8f81f1664608b102f29f608f87204a54514fbb0cec5c57"
+      },
+      {
+        "basename": "WS2_32.dll",
+        "sha256": "b123b00c46c415d7baeaada58c29c3e6920895db836ee4c0cfee49d738af60ad"
+      },
+      {
+        "basename": "RPCRT4.dll",
+        "sha256": "c060f02c11fb19c9c8a30b5077a87cdb17d4be40f08070a539ec73eb53402775"
+      },
+      {
+        "basename": "ADVAPI32.dll",
+        "sha256": "b864e1468a01a44f1901e03c05c1029e71655dd9abddd6d840bcfff5e7227d44"
+      },
+      {
+        "basename": "msvcrt.dll",
+        "sha256": "fc1447db4e4814cbcb002179a8003a41f383fc417879f628727043cab8c25093"
+      },
+      {
+        "basename": "sechost.dll",
+        "sha256": "b4a345ad9af0635f50e27eea8ae0ff37255dca90e6d5991bdbc4806fb02aaa72"
+      },
+      {
+        "basename": "VERSION.dll",
+        "sha256": "cea99f212af557a9613150c5509631403ed0f05f5d9a06ac42039bd59b40e39a"
+      },
+      {
+        "basename": "bcrypt.dll",
+        "sha256": "d0fc7863d7b034da33f34dc82b96a8604572598a217668a43fc9eca3a8e2a8e1"
+      },
+      {
+        "basename": "bcryptprimitives.dll",
+        "sha256": "f0dba794068893c9616b0b54bef1be8f904be89eb2cb09b575d3d7fb1b5000f8"
+      },
+      {
+        "basename": "python3.DLL",
+        "sha256": "7aede7d4f993a4dcab93e9b3e9a45df21995570627ccbabb779512b0aa326903"
+      },
+      {
+        "basename": "_ctypes.pyd",
+        "sha256": "bc949933ad0ae9cc7afca0df4184d048dcba53be26be86fe073efb4b65462906"
+      },
+      {
+        "basename": "ole32.dll",
+        "sha256": "1053ffb858cddbe29eaaa6a5b0836b88c7cd11fbd58605288600e507c06db443"
+      },
+      {
+        "basename": "msvcp_win.dll",
+        "sha256": "b9dacd83201e59bb74e5282d8f0dcc8c428525409b4bc458a39eb8d2a9373a9a"
+      },
+      {
+        "basename": "GDI32.dll",
+        "sha256": "772c73e294a4c5f5e0d4146288af95287a85c074d3aee3fa9f320dc010d7dbfe"
+      },
+      {
+        "basename": "win32u.dll",
+        "sha256": "d46a695db805e808efa63d1095ce3e1b6be9c0155dad405d444530efc1ed0362"
+      },
+      {
+        "basename": "gdi32full.dll",
+        "sha256": "52de3e02898e9c0e243d08d5c51d54871e9bce90de883eff7df29a30fc8aeac9"
+      },
+      {
+        "basename": "libffi-8.dll",
+        "sha256": "061d72eeb14d2d6aae2afa8c1b8bda050d040c7217b1f85ee2114e2cc839b078"
+      },
+      {
+        "basename": "USER32.dll",
+        "sha256": "f285937030bcb325cad39ee5be4818f6666241229adeadea4ff1ae469dfd7ef3"
+      },
+      {
+        "basename": "combase.dll",
+        "sha256": "087f72ecc0c979a3b784ab319285ab64d053dfc0c274df5b28fd40cf204a234f"
+      },
+      {
+        "basename": "OLEAUT32.dll",
+        "sha256": "e3fcdbbf040fd1e3c3504876cf060ac3908c134ac81b3d0c57f0f735769280ea"
+      },
+      {
+        "basename": "IMM32.DLL",
+        "sha256": "7e45f12c1c555e2407c5ca082bd925b34655278fde4dbfac53a0468cc1e77411"
+      },
+      {
+        "basename": "_decimal.pyd",
+        "sha256": "7b98e4e35c5637d5380a88dd08ced4d4bf1cec7c031326eaac05998f27af7cb7"
+      },
+      {
+        "basename": "_hashlib.pyd",
+        "sha256": "fbf7c9e9d79b77a62167db794fe710bde134c69650435b2e917bdb803dc6333d"
+      },
+      {
+        "basename": "libcrypto-3-x64.dll",
+        "sha256": "62974ad9fc32a48ad18aadc85653748eb2850317569d90327e08b14703174dba"
+      },
+      {
+        "basename": "_multiarray_umath.cp313-win_amd64.pyd",
+        "sha256": "b4b28c6d049ad705a498daf40b245e9b710d0a9ef7cb123eaa0639cbf93ddaa9"
+      },
+      {
+        "basename": "libscipy_openblas64_-c16e4918366c6bc1f1cd71e28ca36fc0.dll",
+        "sha256": "7a62620b556f4a485ca273e34f0e224f345da4530d15029c74ba6ea5de878934"
+      },
+      {
+        "basename": "msvcp140-d64049c6e3865410a7dda6a7e9f0c575.dll",
+        "sha256": "66fa570bd6b879aa491f6e45a3e576c3ec7f5fe31ed0eba8b7d81f88c3b01680"
+      },
+      {
+        "basename": "VCRUNTIME140_1.dll",
+        "sha256": "bd7fcd1973d05e358329c06c56435396f7e9c50fb6fe6a3b4d33eb7489a73e69"
+      },
+      {
+        "basename": "_wmi.pyd",
+        "sha256": "0f0c489d188618045458cd20c62d2474a8a1257938a71734e7a7d0b61f11f2cd"
+      },
+      {
+        "basename": "PROPSYS.dll",
+        "sha256": "1d9e7fc09a540c6b23d239f2dceeb0a57a7a1f51e1c90ad28401ecb202f4b39b"
+      },
+      {
+        "basename": "_umath_linalg.cp313-win_amd64.pyd",
+        "sha256": "89525cd59ff37723deb1db223ce34ad48d2ddca238d73f52af19e64e88516be8"
+      },
+      {
+        "basename": "_bz2.pyd",
+        "sha256": "83d4a47d89e8f73d896bdc4d27b9c17a84f9ed9af68fb9ed26a4f3f9a7f7e32c"
+      },
+      {
+        "basename": "_lzma.pyd",
+        "sha256": "df9b2b6045ddb2be7812bddbcd87202f274c5fa49f5e454e68558720d5c3b6fd"
+      },
+      {
+        "basename": "psapi.DLL",
+        "sha256": "6c8ebe6621224d11ded0c920873d67b5255fd515e8c4ea803cd587c8232bee5c"
+      }
+    ],
+    "numpy_build": {
+      "Compilers": {
+        "c": {
+          "name": "msvc",
+          "version": "19.29.30156"
+        },
+        "cython": {
+          "name": "cython",
+          "version": "3.0.11"
+        },
+        "c++": {
+          "name": "msvc",
+          "version": "19.29.30156"
+        }
+      },
+      "Machine Information": {
+        "host": {},
+        "build": {}
+      },
+      "Build Dependencies": {
+        "blas": {
+          "name": "scipy-openblas",
+          "version": "0.3.27",
+          "found": true
+        },
+        "lapack": {
+          "name": "scipy-openblas",
+          "version": "0.3.27",
+          "found": true
+        }
+      },
+      "Python Information": {},
+      "SIMD Extensions": {}
+    },
+    "redactions": "Executable, module and library absolute paths; sys.path; prefixes; environment variables. Historical binary hashes are evidence, not bundled runtimes."
+  }
+}

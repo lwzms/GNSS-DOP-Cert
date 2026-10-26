@@ -1,7 +1,12 @@
 # Saved-input numerical reproduction interface
 
 These tools use externally supplied saved inputs and never propagate satellites
-or run SPP/FDE. No saved angle, matrix, position or certificate dataset is shipped.
+or run SPP/FDE. The bounded `evidence/urban_spp_fde_v1/` export now supplies
+saved production angles, matrices, derived positions and certificates. Start with
+`reproduce/verify_paper_evidence.py`; it accepts this export directly and uses
+the Python standard library only. Its input format differs from the legacy
+numeric_worker INPUT.json contract described below; do not pass the export
+directory to that worker as if it were an E15 input file.
 
 `reproduce/numeric_worker.py` accepts --mode angles|H|G|Q, --inputs INPUT.json,
 optional --source MATRIX_DIRECTORY, and --out NEW_DIRECTORY. INPUT.json is the

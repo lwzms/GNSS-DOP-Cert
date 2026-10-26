@@ -1,0 +1,321 @@
+{
+  "replay": {
+    "A_angles": {
+      "compared": 160,
+      "differences": [],
+      "status": "OFFLINE_DOP_OUTPUT_REPLAY_MATCHED"
+    },
+    "B_angles": {
+      "compared": 160,
+      "differences": [],
+      "status": "OFFLINE_DOP_OUTPUT_REPLAY_MATCHED"
+    }
+  },
+  "stage_comparisons": [
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "angles",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 460,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "H",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 920,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "G",
+      "changed_requests": 40,
+      "changed_cells": 256,
+      "cells": 640,
+      "max_abs_difference": 8.881784197001252e-16
+    },
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "Q",
+      "changed_requests": 40,
+      "changed_cells": 594,
+      "cells": 640,
+      "max_abs_difference": 3.673221726785414e-10
+    },
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "diagonal_sums",
+      "changed_requests": 38,
+      "changed_cells": 140,
+      "cells": 160,
+      "max_abs_difference": 6.455138645833358e-10
+    },
+    {
+      "left": "A_angles",
+      "right": "B_angles",
+      "field": "DOP",
+      "changed_requests": 38,
+      "changed_cells": 131,
+      "cells": 160,
+      "max_abs_difference": 9.237055564881302e-12
+    },
+    {
+      "left": "A_angles",
+      "right": "AB",
+      "field": "H",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 920,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "A_angles",
+      "right": "AB",
+      "field": "G",
+      "changed_requests": 40,
+      "changed_cells": 256,
+      "cells": 640,
+      "max_abs_difference": 8.881784197001252e-16
+    },
+    {
+      "left": "A_angles",
+      "right": "AB",
+      "field": "Q",
+      "changed_requests": 40,
+      "changed_cells": 594,
+      "cells": 640,
+      "max_abs_difference": 3.673221726785414e-10
+    },
+    {
+      "left": "A_angles",
+      "right": "AB",
+      "field": "diagonal_sums",
+      "changed_requests": 38,
+      "changed_cells": 140,
+      "cells": 160,
+      "max_abs_difference": 6.455138645833358e-10
+    },
+    {
+      "left": "A_angles",
+      "right": "AB",
+      "field": "DOP",
+      "changed_requests": 38,
+      "changed_cells": 131,
+      "cells": 160,
+      "max_abs_difference": 9.237055564881302e-12
+    },
+    {
+      "left": "BA",
+      "right": "B_angles",
+      "field": "H",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 920,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "BA",
+      "right": "B_angles",
+      "field": "G",
+      "changed_requests": 40,
+      "changed_cells": 256,
+      "cells": 640,
+      "max_abs_difference": 8.881784197001252e-16
+    },
+    {
+      "left": "BA",
+      "right": "B_angles",
+      "field": "Q",
+      "changed_requests": 40,
+      "changed_cells": 594,
+      "cells": 640,
+      "max_abs_difference": 3.673221726785414e-10
+    },
+    {
+      "left": "BA",
+      "right": "B_angles",
+      "field": "diagonal_sums",
+      "changed_requests": 38,
+      "changed_cells": 140,
+      "cells": 160,
+      "max_abs_difference": 6.455138645833358e-10
+    },
+    {
+      "left": "BA",
+      "right": "B_angles",
+      "field": "DOP",
+      "changed_requests": 38,
+      "changed_cells": 131,
+      "cells": 160,
+      "max_abs_difference": 9.237055564881302e-12
+    },
+    {
+      "left": "GA",
+      "right": "GB",
+      "field": "G",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 640,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "GA",
+      "right": "GB",
+      "field": "Q",
+      "changed_requests": 40,
+      "changed_cells": 587,
+      "cells": 640,
+      "max_abs_difference": 2.582964953035116e-10
+    },
+    {
+      "left": "GA",
+      "right": "GB",
+      "field": "diagonal_sums",
+      "changed_requests": 37,
+      "changed_cells": 142,
+      "cells": 160,
+      "max_abs_difference": 4.538378561846912e-10
+    },
+    {
+      "left": "GA",
+      "right": "GB",
+      "field": "DOP",
+      "changed_requests": 37,
+      "changed_cells": 133,
+      "cells": 160,
+      "max_abs_difference": 6.465938895416912e-12
+    },
+    {
+      "left": "QA",
+      "right": "QB",
+      "field": "Q",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 640,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "QA",
+      "right": "QB",
+      "field": "diagonal_sums",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 160,
+      "max_abs_difference": 0
+    },
+    {
+      "left": "QA",
+      "right": "QB",
+      "field": "DOP",
+      "changed_requests": 0,
+      "changed_cells": 0,
+      "cells": 160,
+      "max_abs_difference": 0
+    }
+  ],
+  "certificates": {
+    "A_angles": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 4.623229603573724e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 4.822778414542515e-10,
+      "max_Q_bound_inf": 7.307957461702235e-10,
+      "max_DOP_error_upper": 5.327176805482874e-12,
+      "max_DOP_bound": 5.62660910486558e-11
+    },
+    "B_angles": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 6.531780485714064e-13,
+      "max_Gram_error_inf": 1.1370337441012592e-15,
+      "max_Q_error_inf": 7.311358849445221e-10,
+      "max_Q_bound_inf": 1.0416623493502515e-09,
+      "max_DOP_error_upper": 8.029587464713741e-12,
+      "max_DOP_bound": 7.985311161959812e-11
+    },
+    "AB": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 6.531780485714064e-13,
+      "max_Gram_error_inf": 1.1370337441012592e-15,
+      "max_Q_error_inf": 7.311358849445221e-10,
+      "max_Q_bound_inf": 1.0416623493502515e-09,
+      "max_DOP_error_upper": 8.029587464713741e-12,
+      "max_DOP_bound": 7.985311161959812e-11
+    },
+    "BA": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 4.623229603573724e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 4.822778414542515e-10,
+      "max_Q_bound_inf": 7.307957461702235e-10,
+      "max_DOP_error_upper": 5.327176805482874e-12,
+      "max_DOP_bound": 5.62660910486558e-11
+    },
+    "GA": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 4.623229603573724e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 4.822778414542515e-10,
+      "max_Q_bound_inf": 7.307957461702235e-10,
+      "max_DOP_error_upper": 5.327176805482874e-12,
+      "max_DOP_bound": 5.62660910486558e-11
+    },
+    "GB": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 6.198164642013277e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 3.381598781008526e-10,
+      "max_Q_bound_inf": 9.884586226962742e-10,
+      "max_DOP_error_upper": 3.715683957400715e-12,
+      "max_DOP_bound": 7.577472979172655e-11
+    },
+    "QA": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 4.623229603573724e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 4.822778414542515e-10,
+      "max_Q_bound_inf": 7.307957461702235e-10,
+      "max_DOP_error_upper": 5.327176805482874e-12,
+      "max_DOP_bound": 5.62660910486558e-11
+    },
+    "QB": {
+      "certified": 40,
+      "gate_valid": 36,
+      "gate_above30": 4,
+      "max_rho": 4.623229603573724e-13,
+      "max_Gram_error_inf": 1.1457879045530847e-15,
+      "max_Q_error_inf": 4.822778414542515e-10,
+      "max_Q_bound_inf": 7.307957461702235e-10,
+      "max_DOP_error_upper": 5.327176805482874e-12,
+      "max_DOP_bound": 5.62660910486558e-11
+    }
+  },
+  "pair_bounds_covered": 160,
+  "H_condition_range": [
+    5.492127211304943,
+    84.10189713245857
+  ],
+  "smallest_singular_value": 0.028504823383262257,
+  "source": "E15 fixed binary64 H only; historical H not certified",
+  "status": "E15_FIXED_INPUT_NUMERICAL_CAUSE_SUPPORTED"
+}

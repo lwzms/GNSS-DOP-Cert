@@ -1,0 +1,76 @@
+{
+  "version": "PAPER_EVIDENCE_DATA_SOURCES_V1",
+  "external_files": {
+    "obs": {
+      "logical_name": "obs",
+      "filename": "UrbanNav-HK-Medium-Urban-1.ublox.f9p.splitter.obs",
+      "size_bytes": 3156481,
+      "sha256": "919e7bbf582ab999a956855e886f829a5833d5d39183dec3a70d04d60d9da40f",
+      "included_in_package": false,
+      "source": "IPNL-POLYU UrbanNav-HK-Medium-Urban-1 rear F9P splitter; prior dataset inventory and E0 data manifest",
+      "usage": "original GPS C1C measurements for native parsing",
+      "licence_status": "UNKNOWN_REDISTRIBUTION_NOT_AUTHORIZED_BY_THIS_PACKAGE"
+    },
+    "nav": {
+      "logical_name": "nav",
+      "filename": "BRDM00DLR_S_20211370000_01D_MN.rnx",
+      "size_bytes": 7357518,
+      "sha256": "5bb4e5ee76b4b8b014ab35aa578c7bb0ce64639366ecd24410cf1ac522c6e915",
+      "included_in_package": false,
+      "source": "BKG/IGS/DLR 2021 DOY137 broadcast product, prior P95 freeze and E0 provenance",
+      "usage": "2021-05-17 broadcast orbits and clocks",
+      "licence_status": "NOT_REAUDITED_IN_E6; external only; retain provider attribution"
+    },
+    "dll": {
+      "logical_name": "dll",
+      "filename": "rtklib_window_gate.dll",
+      "size_bytes": 576000,
+      "sha256": "fabf66b6dcfccb3893c21c4bca7617ee00a8caaf5684a98cd058cf953b60f5a9",
+      "included_in_package": false,
+      "source": "existing project RTKLIB wrapper binary, RTKLIB commit 71db0ffa0d9735697c6adfd06fdf766d0e5ce807; prior RETURN08 build provenance",
+      "usage": "existing satellite propagation and standard SPP/FDE ABI",
+      "licence_status": "RTKLIB local readme contains BSD 2-clause and additional conditions; custom wrapper/linked components not blanket certified; external binary only"
+    }
+  },
+  "window": {
+    "time_system": "GPST",
+    "date": "2021-05-17",
+    "start": "02:42:13.006",
+    "end": "02:42:32.006",
+    "gps_week": 2158,
+    "tow_start": "96133.006",
+    "tow_end": "96152.006",
+    "epochs": 20,
+    "source_epoch_indices": [
+      540,
+      559
+    ],
+    "signal": "GPS C1C",
+    "methods": {
+      "A": "SPP",
+      "B": "SPP_FDE"
+    },
+    "candidate_code_rows": 140,
+    "eligible_code_rows": 117
+  },
+  "primary_sources": {
+    "UrbanNav": "https://github.com/IPNL-POLYU/UrbanNavDataset",
+    "UrbanNav_historical_revision": "075f96b6a6d9252b37486ecb175b4ae690c56f54",
+    "GNSS_archive_historical_url": "https://www.dropbox.com/sh/2haoy68xekg95zl/AAAkcN4FwhFxkPY1lXsxbJrxa?dl=1",
+    "GNSS_archive_sha256": "b265d9983533b2c038ba2ec46c90a4c078bef5119fef128e6b843af3a1bc5fe2",
+    "GNSS_archive_bytes": 22526745,
+    "BKG_product_information": "https://lists.igs.org/pipermail/igsmail/2022/008148.html",
+    "NAV_exact_historical_download_url": "UNKNOWN; product identity is bound to the decompressed file hash",
+    "DLL_public_download": "NOT_PROVIDED; obtain the exact authorized project build from the project custodian"
+  },
+  "excluded_inputs": [
+    "IMU",
+    "camera",
+    "LiDAR",
+    "ground truth",
+    "external reference trajectory",
+    "geometric mathematics manuscript"
+  ],
+  "rights": "Private authorized coauthor evidence storage only. No blanket public redistribution authorization. Raw data and third-party binaries not included.",
+  "evidence_scope": "E16 paired reruns of the SAME 20 epochs, not 80 independent epochs or datasets. Qualification flags are saved historical judgments; finite-input DOP certificates can be recomputed without GNSS propagation."
+}

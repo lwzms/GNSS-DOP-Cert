@@ -17,7 +17,10 @@ No ground truth or saved navigation result enters initialization.
 Use `INTERNAL_STANDARD_RUN_V1` with historical_comparison=null for ordinary execution.
 `EXACT_HISTORICAL_REGRESSION_V1` requires a separately supplied, hash-bound historical
 contract and results. Absence of those files is not a dependency of ordinary execution.
-Historical materials are excluded from this repository.
+The bounded paper evidence subset is now included under `evidence/urban_spp_fde_v1`.
+It does not include the complete historical run directory required by the legacy
+12965-field comparator. Saved comparison receipts are labeled as historical;
+the portable verifier recalculates only its explicitly documented subset.
 
 Production DOP recording captures intermediate matrices; it does not alter
 navigation decisions. Finite-input numerical certificates do not supersede
