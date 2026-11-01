@@ -1,4 +1,4 @@
-# GNSS-ToolBox-118
+# GNSS-DOP-Cert
 
 Private code and derived-evidence repository limited to the GNSS paper on evidence-separated
 qualification and certified finite-input numerical reproducibility.
